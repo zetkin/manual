@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html>
+<html lang="{{ page.lang }}">
     <head>
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width initial-scale=1" />
@@ -12,6 +12,17 @@
         <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
     </head>
     <body>
+        <header>
+            <ul class="lang-select">
+            {% assign pages=site.pages | where:"ref", page.ref | sort: 'lang' %}
+            {% for page in pages %}
+                <li>
+                    <a href="{{ page.url }}" class="{{ page.lang }}">{{ page.lang }}</a>
+                </li>
+            {% endfor %}
+            </ul>
+            {% assign posts=site.posts | where:"lang", page.lang %}
+        </header>
         <div class="page-content">
             {{ content }}
         </div>

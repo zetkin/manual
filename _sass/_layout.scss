@@ -1,3 +1,29 @@
+.lang-select {
+    &:after {
+        content: "";
+        display: block;
+        clear: both;
+    }
+
+    li {
+        list-style-type: none;
+        margin: 0 5px;
+        float: left;
+
+        a {
+            font-weight: normal;
+
+            &.sv:lang(sv) {
+                font-weight: bold;
+            }
+
+            &.en:lang(en) {
+                font-weight: bold;
+            }
+        }
+    }
+}
+
 .page-content {
     margin: 20px auto;
     width: 98%;
