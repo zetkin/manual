@@ -1,0 +1,12 @@
+-   title: Introduktion
+    slug: intro
+-   title: Activist manual
+    slug: activists
+    sub:
+        -   title: Signing up
+            slug: signup
+            sub:
+                -   title: After sign up
+                    slug: after-signup
+-   title: Organizer manual
+    slug: organizers
