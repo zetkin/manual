@@ -1,0 +1,9 @@
+title: Zetkin User Manual
+email: info@zetkin.org
+baseurl: ""
+url: "http://manual.zetkin.org"
+github_username:  zetkin
+
+# Build settings
+exclude: [README.md, CNAME]
+markdown: kramdown
