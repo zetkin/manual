@@ -13,22 +13,29 @@
     </head>
     <body>
         <header>
-            <ul class="lang-select">
-            {% assign pages=site.pages | where:"ref", page.ref | sort: 'lang' %}
-            {% for page in pages %}
-                <li>
-                    <a href="{{ page.url }}" class="{{ page.lang }}">{{ page.lang }}</a>
-                </li>
-            {% endfor %}
-            </ul>
-            {% assign posts=site.posts | where:"lang", page.lang %}
+            <img class="logo"
+                src="/assets/img/logo-white.png" alt="Zetkin">
+            <div class="lang-select">
+                {{ site.data.strings[page.lang].header.translations }}:
+                <ul>
+                {% assign pages=site.pages | where:"ref", page.ref | sort: 'lang' %}
+                {% for page in pages %}
+                    <li>
+                        <a href="{{ page.url }}" class="{{ page.lang }}">{{ page.lang }}</a>
+                    </li>
+                {% endfor %}
+                </ul>
+            </div>
         </header>
-        <div class="menu">
-        {% assign menu=site.data.menu[page.lang] %}
-        {% capture base %}/{{ page.lang }}{% endcapture %}
-        {% include menu.html menu=menu parent=base %}
-        <div class="page-content">
-            {{ content }}
+        <div class="main">
+            <nav class="toc-menu">
+                {% assign menu=site.data.menu[page.lang] %}
+                {% capture base %}/{{ page.lang }}{% endcapture %}
+                {% include menu.html menu=menu parent=base %}
+            </nav>
+            <div class="content">
+                {{ content }}
+            </div>
         </div>
     </body>
 </html>

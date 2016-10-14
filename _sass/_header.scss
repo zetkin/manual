@@ -1,0 +1,56 @@
+header {
+    padding: 10px;
+
+    background: radial-gradient(
+        circle at 50% 50%,
+        $c-brand-main-orange,
+        $c-brand-main-pink);
+
+    .logo {
+        width: 40px;
+        height: auto;
+    }
+
+    @include medium-screen {
+        .logo {
+            width: 90px;
+        }
+    }
+
+    .lang-select {
+        float: right;
+        padding: 0 20px;
+        color: white;
+        font-size: 10px;
+
+        &:after {
+            content: "";
+            display: block;
+            clear: both;
+        }
+
+        ul {
+            margin: 0;
+        }
+
+        li {
+            list-style-type: none;
+            margin: 0 0 0 5px;
+            float: right;
+            font-size: 14px;
+
+            a {
+                color: white;
+                font-weight: normal;
+
+                &.sv:lang(sv) {
+                    font-weight: bold;
+                }
+
+                &.en:lang(en) {
+                    font-weight: bold;
+                }
+            }
+        }
+    }
+}

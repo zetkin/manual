@@ -1,31 +1,53 @@
-.lang-select {
-    &:after {
-        content: "";
-        display: block;
-        clear: both;
-    }
+.main {
+    margin: 20px auto;
+    width: 90%;
+    max-width: 1200px;
 
-    li {
-        list-style-type: none;
-        margin: 0 5px;
-        float: left;
+    .toc-menu {
+        & > ul {
+            margin-left: 0;
+        }
+
+        li {
+            list-style-type: none;
+        }
 
         a {
+            color: $c-ui-darker;
             font-weight: normal;
+            transition: color 0.2s;
 
-            &.sv:lang(sv) {
-                font-weight: bold;
-            }
-
-            &.en:lang(en) {
-                font-weight: bold;
+            &:hover {
+                color: $c-brand-main-orange;
+                text-decoration: none;
             }
         }
     }
-}
 
-.page-content {
-    margin: 20px auto;
-    width: 98%;
-    max-width: 800px;
+    @include medium-screen {
+        width: 98%;
+
+        .toc-menu {
+            float: left;
+            width: 30%;
+            margin-right: 5%;
+        }
+
+        .content {
+            float: left;
+            width: 65%;
+        }
+    }
+
+    @include large-screen {
+        width: 98%;
+
+        .toc-menu {
+            width: 20%;
+        }
+
+        .content {
+            width: 75%;
+        }
+    }
 }
