@@ -23,6 +23,10 @@
             </ul>
             {% assign posts=site.posts | where:"lang", page.lang %}
         </header>
+        <div class="menu">
+        {% assign menu=site.data.menu[page.lang] %}
+        {% capture base %}/{{ page.lang }}{% endcapture %}
+        {% include menu.html menu=menu parent=base %}
         <div class="page-content">
             {{ content }}
         </div>
