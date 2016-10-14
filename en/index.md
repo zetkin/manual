@@ -5,3 +5,4 @@ ref: index
 layout: default
 ---
 # The Zetkin Manual
+This is the Zetkin manual.
