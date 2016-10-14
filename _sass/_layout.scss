@@ -1,7 +1,7 @@
 .main {
     margin: 20px auto;
     width: 90%;
-    max-width: 1200px;
+    max-width: 1000px;
 
     .toc-menu {
         & > ul {
@@ -25,9 +25,9 @@
     }
 
     @include medium-screen {
-        width: 98%;
-
+        width: 94%;
         .toc-menu {
+            margin-top: 70px;
             float: left;
             width: 30%;
             margin-right: 5%;
@@ -40,8 +40,6 @@
     }
 
     @include large-screen {
-        width: 98%;
-
         .toc-menu {
             width: 20%;
         }
