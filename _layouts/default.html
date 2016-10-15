@@ -27,6 +27,11 @@
                 </ul>
             </div>
         </header>
+        <div class="section-menu">
+            {% assign menu=site.data.menu[page.lang].sections %}
+            {% capture base %}/{{ page.lang }}{% endcapture %}
+            {% include menu.html menu=menu parent=base %}
+        </div>
         <div class="main">
             <div class="breadcrumbs">
                 {% assign crumbs = page.url | remove:'/index.html' | split: '/' | slice: 1, 10 %}
@@ -45,8 +50,9 @@
                 {% endif %}
             </div>
             <nav class="toc-menu">
-                {% assign menu=site.data.menu[page.lang] %}
-                {% capture base %}/{{ page.lang }}{% endcapture %}
+                {% assign section=crumbs[1] %}
+                {% assign menu=site.data.menu[page.lang][section] %}
+                {% capture base %}/{{ page.lang }}/{{ section }}{% endcapture %}
                 {% include menu.html menu=menu parent=base %}
             </nav>
             <div class="content">
