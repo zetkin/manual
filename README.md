@@ -5,27 +5,43 @@ describes the status of the manual and explains how you can contribute to making
 it better.
 
 ## Manual Outline
+The Zetkin Manual is divided into four sections, describing respectively the
+basics of Zetkin, Zetkin from the perspective of an activist, Zetkin from the
+perspective of an organization official, and Zetkin from the perspective of
+developers.
+
 Below is a top-level outline of the Zetkin Manual. Flag icons at each item in
 the list describes the translation status of that piece of the manual. No flags
 means the section has yet to be written.
 
-### Zetkin basics section
-* What is Zetkin?
-* Users and organizations
+### Zetkin basics
+* Introduction
+    * What is Zetkin?
+    * Who can use Zetkin?
+    * Users and organizations
 * The user account
     * Creating a user account
     * Managing your account
     * Resetting your password
 * The organization membership
-    * Joining an organization
+    * Connecting to an organization
     * Accepting an invite
 
-### Activist section
+### For activists
 * The activist portal
+    * Your dashboard
 * Participating in campaigns
+    * Finding the right action
+    * Three simple steps to participate
 * Phone banking with Zetkin Call
+    * Call assignments
+    * Before you start calling
+    * Making a call
+        * Prepare for the call
+        * Make the call
+        * Report the call
 
-### Officials section
+### For officials
 * Being an organization official
 * Introduction to Zetkin Organize
     * Section breakdown
@@ -57,6 +73,18 @@ means the section has yet to be written.
     * Plan a campaign
     * Mobilize a campaign using phone banking
     * Manage a running campaign
+
+### For developers
+* Introduction
+    * Contributing to the Zetkin project
+    * Customizing Zetkin applications
+    * Developing your own Zetkin applications
+* The Zetkin applications
+* The Zetkin Platform
+    * Fundamentals and architecture
+    * Using the Zetkin Platform API
+        * Registering your application
+        * Authentication
 
 ## Contributing
 You can contribute to the manual in many ways.
