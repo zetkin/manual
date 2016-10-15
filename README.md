@@ -4,7 +4,7 @@ hosted by GitHub Pages at [manual.zetkin.org](//manual.zetkin.org). This README
 describes the status of the manual and explains how you can contribute to making
 it better.
 
-# Manual Outline
+## Manual Outline
 Below is a top-level outline of the Zetkin Manual. Flag icons at each item in
 the list describes the translation status of that piece of the manual. No flags
 means the section has yet to be written.
@@ -13,26 +13,26 @@ means the section has yet to be written.
 * Activist section
 * Officials section
 
-# Contributing
+## Contributing
 You can contribute to the manual in many ways.
 
-## Suggesting changes
+### Suggesting changes
 If you want to suggest improvements, highlight language or fact errors, let us
 know about a technical bug that you've found, or in any other way suggest
 changes to the documents in the Zetkin Manual, please create an issue ticket in
 the [issue tracker](//github.com/zetkin/manual.zetkin.org/issues).
 
-## Translating to your language
+### Translating to your language
 If you want to translate the manual to your language, please create a fork and
 work on your translation there. Contact us for details on how translation works.
 
-## Fixing bugs
+### Fixing bugs
 If you are tech-savvy and willing to help out with development of the Zetkin
 Manual, you are very welcome to fixing bugs and making other improvements.
 Please create a fork of this repository, make the changes you want, and create
 a pull request to be reviewed by a Zetkin Foundation official.
 
-## Build instructions
+### Build instructions
 If you intend to develop the manual and need to run a local copy of the site,
 we recommend that you use Docker. The Zetkin Manual is developed using Jekyll,
 which depends on Ruby and several other pieces of software. To avoid having to
