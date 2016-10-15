@@ -9,9 +9,54 @@ Below is a top-level outline of the Zetkin Manual. Flag icons at each item in
 the list describes the translation status of that piece of the manual. No flags
 means the section has yet to be written.
 
-* Intro section
-* Activist section
-* Officials section
+### Zetkin basics section
+* What is Zetkin?
+* Users and organizations
+* The user account
+    * Creating a user account
+    * Managing your account
+    * Resetting your password
+* The organization membership
+    * Joining an organization
+    * Accepting an invite
+
+### Activist section
+* The activist portal
+* Participating in campaigns
+* Phone banking with Zetkin Call
+
+### Officials section
+* Being an organization official
+* Introduction to Zetkin Organize
+    * Section breakdown
+    * Multi-tasking with panes
+    * Using search
+    * Customization and settings
+        * Managing officials
+        * Organization settings
+* Managing people
+    * Importing people
+    * Sending invites
+    * The person list
+    * Keeping things organized with tags
+    * Power-search with person queries
+* Working with campaigns
+    * Campaign basics and terminology
+    * Creating a campaign
+    * Campaign actions
+    * Analyzing campaign distribution and geography
+* Working with phone banking
+    * Call assignment basics
+    * Creating a call assignment
+    * Managing callers
+    * Analyzing call assignment progress
+* Managing your region
+    * Location basics
+    * Managing locations
+* Tutorials
+    * Plan a campaign
+    * Mobilize a campaign using phone banking
+    * Manage a running campaign
 
 ## Contributing
 You can contribute to the manual in many ways.
