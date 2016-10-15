@@ -1,7 +1,24 @@
 .main {
-    margin: 20px auto;
+    margin: 0 auto;
     width: 90%;
     max-width: 1000px;
+
+    .breadcrumbs {
+        font-size: 90%;
+        min-height: 20px;
+        margin: 10px 0 20px;
+
+        a {
+            font-weight: normal;
+            color: $c-ui-dark;
+            transition: color 0.3s;
+
+            &:hover {
+                color: $c-ui-darker;
+                text-decoration: none;
+            }
+        }
+    }
 
     .toc-menu {
         & > ul {

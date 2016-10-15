@@ -28,6 +28,22 @@
             </div>
         </header>
         <div class="main">
+            <div class="breadcrumbs">
+                {% assign crumbs = page.url | remove:'/index.html' | split: '/' | slice: 1, 10 %}
+                {% if crumbs.size > 1 %}
+                {% assign crumbHref=page.lang | prepend: "/" | append: "/" %}
+                <a href="{{ crumbHref }}">Home</a>
+                {% for crumb in crumbs offset: 1 %}
+                    {% assign crumbHref=crumb | prepend: crumbHref | append: "/" %}
+                    {% if forloop.last %}
+                        / {{ page.title }}
+                    {% else %}
+                        {% assign bcPage=site.pages | where: "ref", crumb | first %}
+                        / <a href="{{ crumbHref }}">{{ bcPage.title }}</a>
+                    {% endif %}
+                {% endfor %}
+                {% endif %}
+            </div>
             <nav class="toc-menu">
                 {% assign menu=site.data.menu[page.lang] %}
                 {% capture base %}/{{ page.lang }}{% endcapture %}
