@@ -1,2 +1,4 @@
 header:
     translations: "All languages"
+breadcrumbs:
+    home: "Home"

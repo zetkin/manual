@@ -1,2 +1,4 @@
 header:
     translations: "Alla språk"
+breadcrumbs:
+    home: "Start"

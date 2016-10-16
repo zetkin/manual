@@ -37,7 +37,7 @@
                 {% assign crumbs = page.url | remove:'/index.html' | split: '/' | slice: 1, 10 %}
                 {% if crumbs.size > 1 %}
                 {% assign crumbHref=page.lang | prepend: "/" | append: "/" %}
-                <a href="{{ crumbHref }}">Home</a>
+                <a href="{{ crumbHref }}">{{ site.data.strings[page.lang].breadcrumbs.home }}</a>
                 {% for crumb in crumbs offset: 1 %}
                     {% assign crumbHref=crumb | prepend: crumbHref | append: "/" %}
                     {% if forloop.last %}
