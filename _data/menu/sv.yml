@@ -1,2 +1,9 @@
--   title: Introduktion
-    slug: intro
+sections:
+    -   title: Grunderna
+        slug: grunderna
+    -   title: För aktivister
+        slug: for-aktivister
+    -   title: För funktionärer
+        slug: for-funktionarer
+    -   title: För utvecklare
+        slug: for-utvecklare
