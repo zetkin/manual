@@ -68,3 +68,85 @@ grunderna:
                         slug: rapportera
             -   title: Att göra om ett samtal
                 slug: att-gora-om
+
+"for-funktionarer":
+    -   title: Inledning
+        slug: ""
+        sub:
+            -   title: Vad är en funktionär?
+                slug: vad-ar-en-funktionar
+            -   title: Vad kan funktionärer göra?
+                slug: vad-kan-funktionarer-gora
+    -   title: Zetkin Organize
+        slug: zetkin-organize
+        sub:
+            -   title: Sektioner
+                slug: sektioner
+            -   title: Jobba med paneler
+                slug: paneler
+            -   title: Använd sökfunktionen
+                slug: sok
+            -   title: Inställningar
+    -   title: Jobba med människor
+        slug: manniskor
+        sub:
+            -   title: Importera
+                slug: importera
+            -   title: Personlistan
+                slug: personlistan
+            -   title: Bjud in användare
+                slug: bjud-in
+            -   title: Organisera med etiketter
+                slug: etiketter
+            -   title: Komplexa sökningar
+                slug: kopmlex-sok
+    -   title: Jobba med kampanjer
+        slug: kampanjer
+        sub:
+            -   title: Grunder och terminologi
+                slug: grunder
+            -   title: Skapa en kampanj
+                slug: skapa-kampanj
+            -   title: Kampanjaktioner
+                slug: aktioner
+                sub:
+                    -   title: Skapa och redigera aktion
+                        slug: skapa-aktion
+                    -   title: Anmälningar och bokningar
+                        slug: bokningar
+                    -   title: Skicka påminnelser
+                        slug: paminnelser
+            -   title: Analysera kampanj
+                slug: analysera
+    -   title: Rundringningar
+        slug: phone-banking
+        sub:
+            -   title: Ringuppdragets grunder
+                slug: ringuppdrag
+            -   title: Skapa ringuppdrag
+                slug: skapa-ringuppdrag
+            -   title: Hantera ringare
+                slug: ringare
+            -   title: Analysera framsteg
+                slug: analysera
+    -   title: Geografi
+        slug: geografi
+        sub:
+            -   title: Skapa/redigera platser
+                slug: platser
+    -   title: Tips och trick
+        slug: tips
+        sub:
+            -   title: Snabbtangenter
+                slug: snabbtangenter
+            -   title: Formatera text
+                slug: text
+    -   title: Lektioner
+        slug: lektioner
+        sub:
+            -   title: Planera en kampanj
+                slug: planera-en-kampanj
+            -   title: Mobilisera med ringuppdrag
+                slug: mobilisera-med-ringuppdrag
+            -   title: Organisera en kampanj
+                slug: organisera-en-kampanj
