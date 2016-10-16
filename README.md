@@ -28,11 +28,13 @@ means the section has yet to be written.
     * Accepting an invite
 
 ### For activists
-* The activist portal
+* Introduction
+    * The activist portal
     * Your dashboard
 * Participating in campaigns
     * Finding the right action
     * Three simple steps to participate
+    * If you need to cancel
 * Phone banking with Zetkin Call
     * Call assignments
     * Before you start calling
@@ -42,9 +44,11 @@ means the section has yet to be written.
         * Report the call
 
 ### For officials
-* Being an organization official
-* Introduction to Zetkin Organize
-    * Section breakdown
+* Introduction
+    * What is an organization official?
+    * What can officials do?
+* Using Zetkin Organize
+    * The Organize sections
     * Multi-tasking with panes
     * Using search
     * Customization and settings
@@ -60,15 +64,24 @@ means the section has yet to be written.
     * Campaign basics and terminology
     * Creating a campaign
     * Campaign actions
+        * Creating an action
+        * Editing an action
+        * Handling sign-ups and bookings
+        * Sending action reminders
     * Analyzing campaign distribution and geography
 * Working with phone banking
     * Call assignment basics
     * Creating a call assignment
     * Managing callers
+        * Adding and removing callers
+        * Customizing targets for a caller
     * Analyzing call assignment progress
 * Managing your region
     * Location basics
     * Managing locations
+* Tips and tricks
+    * Using keyboard shortcuts
+    * Editing rich text
 * Tutorials
     * Plan a campaign
     * Mobilize a campaign using phone banking
