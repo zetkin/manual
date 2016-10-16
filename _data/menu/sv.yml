@@ -150,3 +150,28 @@ grunderna:
                 slug: mobilisera-med-ringuppdrag
             -   title: Organisera en kampanj
                 slug: organisera-en-kampanj
+
+"for-utvecklare":
+    -   title: Inledning
+        slug: ""
+        sub:
+            -   title: Bidra till Zetkin-projektet
+                slug: utveckla
+            -   title: Anpassa Zetkin
+                slug: anpassa
+            -   title: Utveckla egna applikationer
+                slug: egna-appar
+    -   title: Officiella appar
+        slug: officiella-appar
+    -   title: Zetkin-plattformen
+        slug: plattformen
+        sub:
+            -   title: Grunder och arkitektur
+                slug: grunder
+            -   title: Zetkin Platform API
+                slug: api
+                sub:
+                    -   title: Registrera din app
+                        slug: registrera-app
+                    -   title: Autentisering
+                        slug: autentinsering
