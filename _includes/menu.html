@@ -1,6 +1,10 @@
 <ul>
 {% for item in include.menu %}
-    {% capture slug %}{{ include.parent }}/{{ item.slug }}{% endcapture %}
+    {% if item.slug == "" %}
+        {% assign slug=include.parent %}
+    {% else %}
+        {% capture slug %}{{ include.parent }}/{{ item.slug }}{% endcapture %}
+    {% endif %}
     <li><a href="{{ slug }}">{{ item.title }}</a>
     {% if item.sub %}
     {{ parent }}
