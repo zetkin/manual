@@ -7,3 +7,28 @@ sections:
         slug: for-funktionarer
     -   title: För utvecklare
         slug: for-utvecklare
+
+grunderna:
+    -   title: Inledning
+        slug: ""
+        sub:
+            -   title: Vad är Zetkin?
+                slug: vad-ar-zetkin
+            -   title: Vem kan använda Zetkin?
+                slug: vem-kan-anvanda-zetkin
+    -   title: Användarkontot
+        slug: anvandarkontot
+        sub:
+            -   title: Skapa ett konto
+                slug: registrering
+            -   title: Inloggning
+                slug: inloggning
+            -   title: Hantera ditt konto
+                slug: hantera-konto
+    -   title: Organisationer
+        slug: organisationer
+        sub:
+            -   title: Att ansluta till en organisation
+                slug: ansluta
+            -   title: Att bli inbjuden
+                slug: inbjudan
