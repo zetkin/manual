@@ -32,3 +32,39 @@ grunderna:
                 slug: ansluta
             -   title: Att bli inbjuden
                 slug: inbjudan
+
+"for-aktivister":
+    -   title: Inledning
+        slug: ""
+        sub:
+            -   title: Aktivistportalen
+                slug: aktivistportalen
+            -   title: Min sida
+                slug: min-sida
+    -   title: Delta i kampanjer
+        slug: kampanjer
+        sub:
+            -   title: Hitta aktioner
+                slug: hitta-aktioner
+            -   title: Delta i tre steg
+                slug: delta-i-tre-steg
+            -   title: Ställa in
+                slug: stalla-in
+    -   title: Ringa med Zetkin
+        slug: ringa-med-zetkin
+        sub:
+            -   title: Ringuppdrag
+                slug: ringuppdrag
+            -   title: Innan du börjar ringa
+                slug: innan-du-borjar
+            -   title: Att ringa ett samtal
+                slug: samtalet
+                sub:
+                    -   title: Förbered dig
+                        slug: forbered-dig
+                    -   title: Ring samtalet
+                        slug: ring
+                    -   title: Rapportera
+                        slug: rapportera
+            -   title: Att göra om ett samtal
+                slug: att-gora-om
