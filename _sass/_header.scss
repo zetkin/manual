@@ -7,6 +7,10 @@ header {
         clear: both;
     }
 
+    a {
+        text-decoration: none;
+    }
+
     background: radial-gradient(
         circle at 50% 50%,
         $c-brand-main-orange,
