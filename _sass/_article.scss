@@ -1,6 +1,49 @@
-p.kicker {
-    font-family: $brand-font-family;
-    font-size: 120%;
-    color: $c-brand-main;
-    max-width: 500px;
+.content {
+    p.kicker {
+        font-family: $brand-font-family;
+        font-size: 120%;
+        color: $c-brand-main;
+    }
+
+    a {
+        color: $c-brand-main;
+        text-decoration: none;
+
+        &:visited {
+            color: darken($c-brand-main, 15%);
+        }
+
+        &:hover {
+            color: $text-color;
+            text-decoration: underline;
+        }
+    }
+
+    blockquote {
+        padding: 10px;
+        background: linear-gradient(90deg, #eee, #fff 50%);
+    }
+
+
+    @include medium-screen {
+        p {
+            width: 70%;
+        }
+
+        blockquote {
+            float: right;
+            font-size: 80%;
+            width: 25%;
+        }
+    }
+
+    table {
+        th, td {
+            padding: 0 20px 0 0;
+        }
+
+        th {
+            text-align: left;
+        }
+    }
 }
