@@ -1,19 +1,59 @@
 header {
     padding: 10px;
 
+    &:after {
+        content: "";
+        display: block;
+        clear: both;
+    }
+
     background: radial-gradient(
         circle at 50% 50%,
         $c-brand-main-orange,
         $c-brand-main-pink);
 
     .logo {
-        width: 40px;
-        height: auto;
+        float: left;
+        color: white;
+
+        img {
+            float: left;
+            width: 40px;
+            height: auto;
+            margin-right: 30px;
+        }
+
+        h1 {
+            float: left;
+            font-size: 20px;
+            line-height: 0.85em;
+            margin: 4% 0 0;
+
+            .brand {
+                display: block;
+                font-weight: bold;
+            }
+
+            .tag {
+                display: block;
+                font-size: 60%;
+            }
+        }
     }
 
     @include medium-screen {
         .logo {
-            width: 90px;
+            img {
+                margin-right: 50px;
+            }
+
+            h1 {
+                font-size: 38px;
+            }
+
+            img {
+                width: 80px;
+            }
         }
     }
 
@@ -22,12 +62,6 @@ header {
         padding: 0 20px;
         color: white;
         font-size: 10px;
-
-        &:after {
-            content: "";
-            display: block;
-            clear: both;
-        }
 
         ul {
             margin: 0;

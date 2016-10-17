@@ -1,4 +1,6 @@
 header:
+    brand: "Zetkin"
+    tagLine: "The Manual"
     translations: "All languages"
 breadcrumbs:
     home: "Home"
