@@ -1,6 +1,7 @@
 ---
 lang: sv
 ref: official.index
+slug: for-funktionarer
 title: Zetkin-manualen för organisationsfunktionärer
 kicker: |
     Funktionärer är de användare i en organisation som inte bara deltar i

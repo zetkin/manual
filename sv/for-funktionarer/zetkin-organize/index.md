@@ -1,6 +1,7 @@
 ---
 lang: sv
 ref: official.organize
+slug: zetkin-organize
 title: Zetkin Organize
 kicker: |
     Zetkins verktyg för funktionärer heter Zetkin Organize. Det är en kraftfull
