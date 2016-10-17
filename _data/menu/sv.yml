@@ -72,11 +72,6 @@ grunderna:
 "for-funktionarer":
     -   title: Inledning
         slug: ""
-        sub:
-            -   title: Vad är en funktionär?
-                slug: vad-ar-en-funktionar
-            -   title: Vad kan funktionärer göra?
-                slug: vad-kan-funktionarer-gora
     -   title: Zetkin Organize
         slug: zetkin-organize
         sub:
