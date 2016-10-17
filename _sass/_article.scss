@@ -9,10 +9,6 @@
         color: $c-brand-main;
         text-decoration: none;
 
-        &:visited {
-            color: darken($c-brand-main, 15%);
-        }
-
         &:hover {
             color: $text-color;
             text-decoration: underline;
