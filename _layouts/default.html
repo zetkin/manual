@@ -6,7 +6,7 @@
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
     
         <title>{% if page.title %}{{ page.title }} | {% endif %}{{ site.data.strings[page.lang].title }}</title>
-        <meta name="description" content="{{ site.description }}">
+        <meta name="description" content="{{ page.kicker | strip_newlines }}">
     
         <link rel="stylesheet" href="{{ "/css/main.css" | prepend: site.baseurl }}">
         <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
