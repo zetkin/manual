@@ -16,16 +16,24 @@ Om Zetkin är helt nytt för dig rekommenderar vi att du börjar med att läsa
 den sektion som heter [Grunderna](/sv/grunderna) och som försöker besvara
 alla de mest grundläggande frågorna om vad Zetkin är och hur det används.
 
+[Läs om grunderna](/sv/grunderna)
+
 ## Aktivist?
 Om du använder Zetkin som aktivist, och redan känner att du snappat upp
-grunderna finns det [ett helt sektion](/sv/for-aktivister) för dig.
+grunderna finns det [en helt sektion](/sv/for-aktivister) för dig.
+
+[Läs manualen för aktivister](/sv/for-aktivister)
 
 ## Funktionär?
 Om du är funktionär i en organisation och vill lära dig hur man använder
 Zetkin för att organisera finns en hel sektion [för funktionärer](/sv/for-funktionarer).
 
+[Läs manualen för organisationsfunktionärer](/sv/for-funktionarer)
+
 ## Utvecklare?
 Zetkin är byggt för att utvecklas, förbättras och anpassas av många.
-Organisationer, programmerare, formgivare och andra som på olika sätt vill
-bidra till projektet eller skapa egna anpassningar bör börja med sektionen
-[för utvecklare](/sv/for-utvecklare).
+Sektionen [för utvecklare](/sv/for-utvecklare) beskriver dels hur man kan
+bidra till Zetkin-projektet, dels hur man kan använda Zetkin-plattformen
+för att bygga egna anpassningar och applikationer.
+
+[Läs manualen för utvecklare](/sv/for-utvecklare)
