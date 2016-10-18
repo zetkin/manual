@@ -139,6 +139,8 @@ grunderna:
     -   title: Lektioner
         slug: lektioner
         sub:
+            -   title: Importera dina medlemmar
+                slug: importera-dina-medlemmar
             -   title: Planera en kampanj
                 slug: planera-en-kampanj
             -   title: Mobilisera med ringuppdrag
