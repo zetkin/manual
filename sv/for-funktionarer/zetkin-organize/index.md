@@ -34,7 +34,6 @@ I kapitlen [Sektioner](./sektioner), [Jobba med paneler](./paneler) och
 utav Zetkin Organizes gränssnitt.
 
 ### Inställningar
-I kapitlet [Inställningar](./installningar) får du lära dig hur du gör den
-typ av grundläggande inställningar som man generellt bara behöver göra en
-gång. Här får du även lära dig hur du lägger till fler funktionärer så
-att fler kan dela på arbetet i Zetkin Organize.
+I kapitlet [Hantera funktionärer](./funktionarer) får du även lära dig hur
+du lägger till fler funktionärer så att fler kan dela på arbetet i Zetkin
+Organize.

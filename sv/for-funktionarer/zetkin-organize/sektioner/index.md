@@ -67,4 +67,4 @@ Välj ett ämne om du vill läsa mer om vad du kan göra under _Kampanj_.
 Under Inställningar ändrar du Zetkin-inställningar för din organisation.
 Här kan du bland annat styra vilka som är funktionärer i organisationen.
 
-* [Hantera organisationens funktionärer](/sv/for-funktionarer/zetkin-organize/installningar)
+* [Hantera organisationens funktionärer](/sv/for-funktionarer/zetkin-organize/funktionarer)

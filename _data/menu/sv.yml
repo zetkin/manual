@@ -81,7 +81,8 @@ grunderna:
                 slug: paneler
             -   title: Använd sökfunktionen
                 slug: sok
-            -   title: Inställningar
+            -   title: Hantera funktionärer
+                slug: funktionarer
     -   title: Jobba med människor
         slug: manniskor
         sub:
