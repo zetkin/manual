@@ -1,7 +1,14 @@
 title: Zetkin-manualen
+
 header:
     brand: "Zetkin"
     tagLine: "Manualen"
     translations: "Alla språk"
+
 breadcrumbs:
     home: "Start"
+
+footer:
+    credits: |
+        Zetkin-manualen underhålls av Zetkin Foundation. Om du behöver support
+        eller har hittat ett fel, kontakta oss.
