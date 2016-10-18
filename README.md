@@ -45,13 +45,11 @@ means the section has yet to be written.
     * Repeating a call
 
 ### For officials
-* Introduction
-    * What is an organization official?
-    * What can officials do?
-* Using Zetkin Organize
-    * The Organize sections
-    * Multi-tasking with panes
-    * Using search
+* Introduction 🇸🇪
+* Using Zetkin Organize 🇸🇪
+    * The Organize sections 🇸🇪
+    * Multi-tasking with panes 🇸🇪
+    * Using search 🇸🇪
     * Customization and settings
         * Managing officials
         * Organization settings
