@@ -50,9 +50,7 @@ means the section has yet to be written.
     * The Organize sections 🇸🇪
     * Multi-tasking with panes 🇸🇪
     * Using search 🇸🇪
-    * Customization and settings
-        * Managing officials
-        * Organization settings
+    * Managing officials 🇸🇪
 * Managing people
     * Importing people
     * Sending invites
