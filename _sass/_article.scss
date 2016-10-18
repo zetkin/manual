@@ -18,6 +18,16 @@
     blockquote {
         padding: 10px;
         background: linear-gradient(90deg, #eee, #fff 50%);
+
+        strong:first-child {
+            font-size: 120%;
+            color: $c-brand-main;
+            display: block;
+        }
+
+        p:last-child {
+            margin-bottom: 0;
+        }
     }
 
 
