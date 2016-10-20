@@ -29,8 +29,7 @@ means the section has yet to be written.
 
 ### For activists
 * Introduction
-    * The activist portal
-    * Your dashboard
+* The activist portal & your dashboard
 * Participating in campaigns
     * Finding the right action
     * Three simple steps to participate
