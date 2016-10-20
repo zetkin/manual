@@ -147,15 +147,12 @@ grunderna:
 "for-utvecklare":
     -   title: Inledning
         slug: ""
-        sub:
-            -   title: Bidra till Zetkin-projektet
-                slug: utveckla
-            -   title: Anpassa Zetkin
-                slug: anpassa
-            -   title: Utveckla egna applikationer
-                slug: egna-appar
-    -   title: Officiella appar
-        slug: officiella-appar
+    -   title: Bidra till Zetkin-projektet
+        slug: bidra
+    -   title: Anpassa Zetkin
+        slug: anpassa
+    -   title: Utveckla egna applikationer
+        slug: egna-appar
     -   title: Zetkin-plattformen
         slug: plattformen
         sub:

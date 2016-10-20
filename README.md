@@ -86,7 +86,7 @@ means the section has yet to be written.
     * Manage a running campaign
 
 ### For developers
-* Introduction
+* Introduction 🇸🇪
 * Contributing to the Zetkin project
 * Customizing Zetkin applications
 * Developing your own Zetkin applications
