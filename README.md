@@ -15,7 +15,7 @@ the list describes the translation status of that piece of the manual. No flags
 means the section has yet to be written.
 
 ### Zetkin basics
-* Introduction
+* Introduction 🇸🇪
     * What is Zetkin?
     * Who can use Zetkin?
     * Users and organizations
