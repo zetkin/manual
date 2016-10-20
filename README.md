@@ -28,7 +28,7 @@ means the section has yet to be written.
     * Accepting an invite
 
 ### For activists
-* Introduction
+* Introduction 🇸🇪
 * The activist portal & your dashboard
 * Participating in campaigns
     * Finding the right action

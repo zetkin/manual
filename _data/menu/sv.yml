@@ -31,11 +31,8 @@ grunderna:
 "for-aktivister":
     -   title: Inledning
         slug: ""
-        sub:
-            -   title: Aktivistportalen
-                slug: aktivistportalen
-            -   title: Min sida
-                slug: min-sida
+    -   title: Aktivistportalen & min sida
+        slug: aktivistportalen
     -   title: Delta i kampanjer
         slug: kampanjer
         sub:
