@@ -1,7 +1,14 @@
 title: The Zetkin Manual
+
 header:
     brand: "Zetkin"
     tagLine: "The Manual"
     translations: "All languages"
+
 breadcrumbs:
     home: "Home"
+
+footer:
+    credits: |
+        The Zetkin Manual is maintained by The Zetkin Foundation. If you need
+        support or have found an error, please contact us.
