@@ -58,7 +58,7 @@ means the section has yet to be written.
     * Keeping things organized with tags
     * Power-search with person queries
 * Working with campaigns
-    * Campaign basics and terminology
+    * Campaign basics and terminology 🇸🇪
     * Creating a campaign
     * Campaign actions
         * Creating an action

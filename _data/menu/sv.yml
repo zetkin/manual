@@ -95,7 +95,7 @@ grunderna:
         slug: kampanjer
         sub:
             -   title: Grunder och terminologi
-                slug: grunder
+                slug: grunderna
             -   title: Skapa en kampanj
                 slug: skapa-kampanj
             -   title: Kampanjaktioner
