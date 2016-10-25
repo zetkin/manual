@@ -56,7 +56,7 @@ means the section has yet to be written.
     * The person list
     * Keeping things organized with tags
     * Power-search with person queries
-* Working with campaigns
+* Working with campaigns 🇸🇪
     * Campaign basics and terminology 🇸🇪
     * Creating a campaign
     * Campaign actions
