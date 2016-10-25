@@ -57,6 +57,7 @@ för dessa, titta i respektive projekts lista över issues och ta sig an någon
 av de buggar eller förbättringsförslag som finns där.
 
 ## Kommunikation
+
 ### Slack
 Alla som vill bidra till Zetkin är välkomna att komma med i vårt team i
 [chattjänsten Slack](https://zetkin.slack.com). Där diskuterar både ideella
