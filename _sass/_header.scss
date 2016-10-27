@@ -1,3 +1,19 @@
+.banner {
+    padding: 2em 1em;
+    font-size: 80%;
+    text-align: center;
+    background: linear-gradient($c-ui-darker, darken($c-ui-darker, 20%));
+    color: white;
+
+    a {
+        color: white;
+
+        &:hover {
+            color: $c-brand-main;
+        }
+    }
+}
+
 header {
     padding: 10px;
 

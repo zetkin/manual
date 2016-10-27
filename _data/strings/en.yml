@@ -1,5 +1,10 @@
 title: The Zetkin Manual
 
+banner: |
+    The Zetkin Manual is taking shape. Right now some secrtions are missing. If
+    you want to learn more about Zetkin, please visit
+    <a href="http://zetkin.org">zetkin.org</a>.
+
 header:
     brand: "Zetkin"
     tagLine: "The Manual"

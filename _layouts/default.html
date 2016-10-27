@@ -12,6 +12,9 @@
         <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
     </head>
     <body>
+        <div class="banner">
+            {{ site.data.strings[page.lang].banner }}
+        </div>
         <header>
             <div class="logo">
                 <a href="/{{ page.lang }}"><img
