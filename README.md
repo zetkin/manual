@@ -32,7 +32,7 @@ means the section has yet to be written.
     * Three simple steps to participate 🇸🇪
     * If you need to cancel 🇸🇪
 * Phone banking with Zetkin Call 🇸🇪
-    * Call assignments
+    * Call assignments 🇸🇪
     * Before you start calling
     * Making a call
         * Prepare for the call
