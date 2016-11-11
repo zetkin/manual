@@ -90,7 +90,7 @@ means the section has yet to be written.
     * Fundamentals and architecture 🇸🇪
     * Using the Zetkin Platform API 🇸🇪
         * Registering your application 🇸🇪
-        * Authentication
+        * Authentication 🇸🇪
 
 ## Contributing
 You can contribute to the manual in many ways.
