@@ -16,10 +16,10 @@ means the section has yet to be written.
 
 ### Zetkin basics
 * Introduction 🇸🇪
-* The user account
-    * Creating a user account
+* The user account 🇸🇪
+    * Forgot password
     * Managing your account
-    * Resetting your password
+    * Deleting account
 * The organization membership
     * Connecting to an organization
     * Accepting an invite

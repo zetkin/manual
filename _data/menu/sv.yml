@@ -14,12 +14,12 @@ grunderna:
     -   title: Användarkontot
         slug: anvandarkontot
         sub:
-            -   title: Skapa ett konto
-                slug: registrering
-            -   title: Inloggning
-                slug: inloggning
+            -   title: Glömt lösenord
+                slug: glomt-losenord
             -   title: Hantera ditt konto
                 slug: hantera-konto
+            -   title: Radera konto
+                slug: radera-konto
     -   title: Organisationer
         slug: organisationer
         sub:
