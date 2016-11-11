@@ -52,7 +52,7 @@
                     {% if forloop.last %}
                         / {{ page.title }}
                     {% else %}
-                        {% assign bcPage=site.pages | where: "slug", crumb | first %}
+                        {% assign bcPage=site.pages | where: "url", crumbHref | first %}
                         / <a href="{{ crumbHref }}">{{ bcPage.title }}</a>
                     {% endif %}
                 {% endfor %}
