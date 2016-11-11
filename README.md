@@ -34,7 +34,7 @@ means the section has yet to be written.
 * Phone banking with Zetkin Call 🇸🇪
     * Call assignments 🇸🇪
     * Before you start calling 🇸🇪
-    * Making a call
+    * Making a call 🇸🇪
         * Prepare for the call
         * Make the call
         * Report the call
