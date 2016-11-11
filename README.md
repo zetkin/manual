@@ -17,7 +17,7 @@ means the section has yet to be written.
 ### Zetkin basics
 * Introduction 🇸🇪
 * The user account 🇸🇪
-    * Forgot password
+    * Forgot password 🇸🇪
     * Managing your account
     * Deleting account
 * The organization membership
