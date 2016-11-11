@@ -13,7 +13,7 @@ genom att surfa direkt till [organize.zetk.in](//organize.zetk.in). Det är i
 Organize som du som funktionär kommer tillbringa den största delen av din tid
 med Zetkin.
 
-[[TODO: Bild på Zetkin Organize]]
+![Zetkin Organize](organize.jpg)
 
 Zetkin Organize är en modern webbapplikation. För att du ska kunna använda
 den fullt ut behöver du en modern webbläsare. Vi rekommenderar den senaste
