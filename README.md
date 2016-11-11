@@ -21,7 +21,7 @@ means the section has yet to be written.
     * Managing your account 🇸🇪
     * Deleting account 🇸🇪
 * The organization membership 🇸🇪
-    * Connecting to an organization
+    * Connecting to an organization 🇸🇪
     * Accepting an invite
 
 ### For activists
