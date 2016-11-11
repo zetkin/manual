@@ -16,9 +16,6 @@ means the section has yet to be written.
 
 ### Zetkin basics
 * Introduction 🇸🇪
-    * What is Zetkin?
-    * Who can use Zetkin?
-    * Users and organizations
 * The user account
     * Creating a user account
     * Managing your account
