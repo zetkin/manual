@@ -23,10 +23,10 @@ grunderna:
     -   title: Organisationer
         slug: organisationer
         sub:
-            -   title: Att ansluta till en organisation
-                slug: ansluta
+            -   title: Hitta en organisation
+                slug: hitta
             -   title: Att bli inbjuden
-                slug: inbjudan
+                slug: bli-inbjuden
 
 "for-aktivister":
     -   title: Inledning

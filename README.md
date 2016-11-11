@@ -20,7 +20,7 @@ means the section has yet to be written.
     * Forgot password 🇸🇪
     * Managing your account 🇸🇪
     * Deleting account 🇸🇪
-* The organization membership
+* The organization membership 🇸🇪
     * Connecting to an organization
     * Accepting an invite
 
