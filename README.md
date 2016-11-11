@@ -22,7 +22,7 @@ means the section has yet to be written.
     * Deleting account 🇸🇪
 * The organization membership 🇸🇪
     * Connecting to an organization 🇸🇪
-    * Accepting an invite
+    * Accepting an invite 🇸🇪
 
 ### For activists
 * Introduction 🇸🇪
