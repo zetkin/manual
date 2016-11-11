@@ -51,5 +51,5 @@ Efter att du svarat på alla frågor sammanfattas rapporten i en lista och du
 får möjlighet att skicka iväg den.
 
 Sedan är samtalet klart, och du kan gå vidare till nästa. Om du någon gång
-behöver [gå tillbaka till ett tidigare samtal](../../att-gora-om) kan du
-även göra det.
+behöver [gå tillbaka till ett tidigare samtal](../../gora-om-ett-samtal) kan
+du även göra det.

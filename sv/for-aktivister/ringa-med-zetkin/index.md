@@ -33,4 +33,4 @@ Innan du börjar är det klokt att först [sätta sig in i uppdraget](./innan-du
 Därefter är det bara att [sätta igång och ringa](./samtalet).
 
 Om du behöver göra om ett samtal, eller blir uppringd av någon du ringt tidigare
-kan du [logga det på nytt](./att-gora-om).
+kan du [logga det på nytt](./gora-om-ett-samtal).
