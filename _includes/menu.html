@@ -5,9 +5,22 @@
     {% else %}
         {% capture slug %}{{ include.parent }}/{{ item.slug }}{% endcapture %}
     {% endif %}
-    <li><a href="{{ slug }}">{{ item.title }}</a>
+    {% assign slugWithSlash = slug |append: "/" %}
+
+    {% assign selected = false %}
+    {% if item.sub or item.slug == "" %}
+        {% if page.url == slugWithSlash %}
+            {% assign selected = true %}
+        {% endif %}
+    {% else %}
+        {% assign pageUrlPart = page.url |slice: 0, slugWithSlash.size %}
+        {% if pageUrlPart == slugWithSlash %}
+            {% assign selected = true %}
+        {% endif %}
+    {% endif %}
+
+    <li{% if selected %} class="selected"{% endif %}><a href="{{ slug }}">{{ item.title }}</a>
     {% if item.sub %}
-    {{ parent }}
     {% include menu.html menu=item.sub parent=slug %}
     {% endif %}
     </li>

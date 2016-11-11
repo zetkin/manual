@@ -32,6 +32,10 @@
                 text-decoration: none;
             }
         }
+
+        &.selected > a {
+            color: black;
+        }
     }
 }
 
@@ -72,6 +76,10 @@
 
         li {
             list-style-type: none;
+
+            &.selected > a {
+                color: black;
+            }
         }
 
         a {
@@ -81,7 +89,7 @@
             text-decoration: none;
 
             &:hover {
-                color: $c-brand-main-orange;
+                color: $c-ui-dark;
                 text-decoration: none;
             }
         }
