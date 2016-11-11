@@ -89,7 +89,7 @@ means the section has yet to be written.
 * The Zetkin Platform 🇸🇪
     * Fundamentals and architecture 🇸🇪
     * Using the Zetkin Platform API 🇸🇪
-        * Registering your application
+        * Registering your application 🇸🇪
         * Authentication
 
 ## Contributing
