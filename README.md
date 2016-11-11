@@ -19,7 +19,7 @@ means the section has yet to be written.
 * The user account 🇸🇪
     * Forgot password 🇸🇪
     * Managing your account 🇸🇪
-    * Deleting account
+    * Deleting account 🇸🇪
 * The organization membership
     * Connecting to an organization
     * Accepting an invite
