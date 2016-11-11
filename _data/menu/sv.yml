@@ -154,7 +154,7 @@ grunderna:
         slug: plattformen
         sub:
             -   title: Grunder och arkitektur
-                slug: grunder
+                slug: grunderna
             -   title: Zetkin Platform API
                 slug: api
                 sub:

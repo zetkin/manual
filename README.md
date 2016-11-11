@@ -87,7 +87,7 @@ means the section has yet to be written.
 * Customizing Zetkin applications 🇸🇪
 * Developing your own Zetkin applications 🇸🇪
 * The Zetkin Platform 🇸🇪
-    * Fundamentals and architecture
+    * Fundamentals and architecture 🇸🇪
     * Using the Zetkin Platform API
         * Registering your application
         * Authentication
