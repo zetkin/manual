@@ -85,7 +85,7 @@ means the section has yet to be written.
 * Introduction 🇸🇪
 * Contributing to the Zetkin project 🇸🇪
 * Customizing Zetkin applications 🇸🇪
-* Developing your own Zetkin applications
+* Developing your own Zetkin applications 🇸🇪
 * The Zetkin Platform
     * Fundamentals and architecture
     * Using the Zetkin Platform API
