@@ -28,7 +28,7 @@ means the section has yet to be written.
 * Introduction 🇸🇪
 * The activist portal & your dashboard 🇸🇪
 * Participating in campaigns 🇸🇪
-    * Finding the right action
+    * Finding the right action 🇸🇪
     * Three simple steps to participate
     * If you need to cancel
 * Phone banking with Zetkin Call
