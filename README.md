@@ -18,7 +18,7 @@ means the section has yet to be written.
 * Introduction 🇸🇪
 * The user account 🇸🇪
     * Forgot password 🇸🇪
-    * Managing your account
+    * Managing your account 🇸🇪
     * Deleting account
 * The organization membership
     * Connecting to an organization
