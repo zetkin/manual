@@ -36,7 +36,7 @@ means the section has yet to be written.
     * Before you start calling 🇸🇪
     * Making a call 🇸🇪
         * Prepare for the call 🇸🇪
-        * Make the call
+        * Make the call 🇸🇪
         * Report the call
     * Repeating a call
 
