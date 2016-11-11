@@ -37,7 +37,7 @@ means the section has yet to be written.
     * Making a call 🇸🇪
         * Prepare for the call 🇸🇪
         * Make the call 🇸🇪
-        * Report the call
+        * Report the call 🇸🇪
     * Repeating a call
 
 ### For officials
