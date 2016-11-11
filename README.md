@@ -30,7 +30,7 @@ means the section has yet to be written.
 * Participating in campaigns 🇸🇪
     * Finding the right action 🇸🇪
     * Three simple steps to participate 🇸🇪
-    * If you need to cancel
+    * If you need to cancel 🇸🇪
 * Phone banking with Zetkin Call
     * Call assignments
     * Before you start calling
