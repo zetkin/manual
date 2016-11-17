@@ -80,14 +80,14 @@ grunderna:
         sub:
             -   title: Importera
                 slug: importera
-            -   title: Personlistan
+            -   title: Skapa och redigera profiler
                 slug: personlistan
-            -   title: Bjud in användare
-                slug: bjud-in
             -   title: Organisera med etiketter
                 slug: etiketter
-            -   title: Komplexa sökningar
-                slug: komplex-sok
+            -   title: Smarta sökningar
+                slug: smarta-sokningar
+            -   title: Bjud in användare
+                slug: bjud-in
     -   title: Jobba med kampanjer
         slug: kampanjer
         sub:

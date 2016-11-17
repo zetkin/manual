@@ -47,12 +47,12 @@ means the section has yet to be written.
     * Multi-tasking with panes 🇸🇪
     * Using search 🇸🇪
     * Managing officials 🇸🇪
-* Managing people
+* Managing people 🇸🇪
     * Importing people
-    * Sending invites
-    * The person list
+    * Adding and editing people
     * Keeping things organized with tags
-    * Power-search with person queries
+    * Smart search with person queries
+    * Sending invites
 * Working with campaigns 🇸🇪
     * Campaign basics and terminology 🇸🇪
     * Creating a campaign
