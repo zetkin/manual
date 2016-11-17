@@ -49,7 +49,7 @@ means the section has yet to be written.
     * Managing officials 🇸🇪
 * Managing people 🇸🇪
     * Importing people 🇸🇪
-    * Adding and editing people
+    * Adding and editing people 🇸🇪
     * Keeping things organized with tags
     * Smart search with person queries
     * Sending invites
