@@ -129,8 +129,8 @@ grunderna:
                 slug: snabbtangenter
             -   title: Formatera text
                 slug: text
-    -   title: Lektioner
-        slug: lektioner
+    -   title: Guider
+        slug: guider
         sub:
             -   title: Importera dina medlemmar
                 slug: importera-dina-medlemmar
