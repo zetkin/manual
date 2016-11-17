@@ -107,7 +107,7 @@ grunderna:
             -   title: Analysera kampanj
                 slug: analysera
     -   title: Rundringningar
-        slug: phone-banking
+        slug: rundringningar
         sub:
             -   title: Ringuppdragets grunder
                 slug: ringuppdrag
