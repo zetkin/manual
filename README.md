@@ -51,7 +51,7 @@ means the section has yet to be written.
     * Importing people 🇸🇪
     * Adding and editing people 🇸🇪
     * Keeping things organized with tags 🇸🇪
-    * Smart search with person queries
+    * Smart search with person queries 🇸🇪
     * Sending invites
 * Working with campaigns 🇸🇪
     * Campaign basics and terminology 🇸🇪
