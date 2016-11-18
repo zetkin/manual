@@ -52,7 +52,7 @@ means the section has yet to be written.
     * Adding and editing people 🇸🇪
     * Keeping things organized with tags 🇸🇪
     * Smart search with person queries 🇸🇪
-    * Sending invites
+    * Sending invites 🇸🇪
 * Working with campaigns 🇸🇪
     * Campaign basics and terminology 🇸🇪
     * Creating a campaign
