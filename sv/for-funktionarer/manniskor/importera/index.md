@@ -38,6 +38,8 @@ Om Zetkin inte kan gissa, eller gissar fel, måste du ställa in vad varje kolum
 innehåller, och har möjlighet att bestämma vilka kolumner som ska importeras,
 och hur.
 
+![Välj kolumner att importera](importera.png)
+
 ### Personuppgifter
 Det vanligaste är att man vill importera personuppgifter, såsom namn, adress,
 e-postadresser och telefonnummer.
