@@ -79,7 +79,7 @@ person:
 ![Etiketter i Excel](./importera-etiketter.png)
 
 Ett "Ja" i kolumn E betyder att personen ska ha etiketten _Aktivist_. Ett "Ja"
-i kolumn F betyder att personen ska ha etiketten _Feminist_. Beroende på vilket
+i kolumn F betyder att personen ska ha etiketten _Feminism_. Beroende på vilket
 värde som står på respektive rad i kolumn G ska personer antingen få etiketten
 _Aktivist_, _Medlem_ eller ingen alls.
 
