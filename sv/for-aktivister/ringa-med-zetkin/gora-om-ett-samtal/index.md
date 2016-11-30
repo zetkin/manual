@@ -8,8 +8,13 @@ kicker: |
     tidigare, kan du starta ett nytt samtal parallellt med ditt pågående.
 ---
 
-I skärmens ena hörn finns en liten rund symbol som tar dig till samtalsloggen.
-Där kan du se alla dina tidigare samtal, och starta nya.
+I skärmens nedre vänstra hörn finns en liten rund symbol som tar dig till
+samtalsloggen. Där kan du se alla dina tidigare samtal, och starta nya.
+
+![Knapp för att öppna loggen](loggknapp.png)
+
+I anslutning till samtalsloggen visas också en lista på pågående samtal om
+du har flera parallella samtal igång.
 
 > Om någon du sökt ringer upp dig, fråga om deras namn och sök snabbt fram
 > samtalet i loggen för att kunna starta ett nytt. Du kan då genomföra ett
@@ -25,6 +30,10 @@ Om Zetkin redan har valt ut en person som du ska ringa när du plötsligt måste
 starta ett nytt samtal innebär det att du har två samtal parallellt. Det
 indikeras bland annat genom fler runda symboler i hörnet. Varje ny person du
 startar ett samtal med får en egen boll.
+
+> Bollarna studsar sporadiskt för att påminna dig om att slutföra samtalen.
+
+![Parallella samtal](parallellasamtal.gif)
 
 För att växla mellan två samtal kan du klicka på respektive boll. När du är
 klar med ett parallellt samtal startar inget nytt, utan Zetkin Call växlar
