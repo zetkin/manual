@@ -4,13 +4,14 @@ slug: ringuppdrag
 ref: official.phonebank.assignment
 title: Ringuppdragets grunder och på djupet
 kicker: |
-    Kärnan i Zetkins system för rundringningar är ringuppdraget. Ett
-    ringuppdrag är när en grupp personer får i uppdrag att ringa en annan
-    grupp personer. Det är viktigt att förstå hur ringuppdrag fungerar.
+    Kärnan i Zetkins system för rundringningar är ringuppdraget. En verkligt
+    djup förståelse för hur ringuppdrag fungerar kan vara nyckeln till att
+    släppa lös rundringningens fulla potential.
 ---
 
-Det är först när ett ringuppdrag skapats och aktivister blivit tilldelade
-ringuppdraget som rundringningen kan börja.
+Ett ringuppdrag är när en grupp personer får i uppgift att ringa en annan
+grupp. Det är först när du skapat ett ringuppdrag i Zetkin och utsett ringare
+som rundringningen kan börja.
 
 ## Uppdragets beståndsdelar
 Precis som det mesta annat i Zetkin skapas ringuppdrag i Zetkin Organize. När
