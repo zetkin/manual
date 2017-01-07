@@ -62,7 +62,7 @@ means the section has yet to be written.
         * Handling sign-ups and bookings
         * Sending action reminders
     * Analyzing campaign distribution and geography
-* Working with phone banking
+* Working with phone banking 🇸🇪
     * Call assignment basics
     * Creating a call assignment
     * Managing callers
