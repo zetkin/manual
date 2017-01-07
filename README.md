@@ -63,7 +63,7 @@ means the section has yet to be written.
         * Sending action reminders
     * Analyzing campaign distribution and geography
 * Working with phone banking 🇸🇪
-    * Call assignment basics
+    * Call assignment basics 🇸🇪
     * Creating a call assignment
     * Managing callers
         * Adding and removing callers
