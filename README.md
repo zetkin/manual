@@ -64,7 +64,7 @@ means the section has yet to be written.
     * Analyzing campaign distribution and geography
 * Working with phone banking 🇸🇪
     * Call assignment basics 🇸🇪
-    * Creating a call assignment
+    * Creating a call assignment 🇸🇪
     * Managing callers
         * Adding and removing callers
         * Customizing targets for a caller
