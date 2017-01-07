@@ -65,9 +65,7 @@ means the section has yet to be written.
 * Working with phone banking 🇸🇪
     * Call assignment basics 🇸🇪
     * Creating a call assignment 🇸🇪
-    * Managing callers
-        * Adding and removing callers
-        * Customizing targets for a caller
+    * Managing callers 🇸🇪
     * Analyzing call assignment progress
 * Managing your region
     * Location basics
