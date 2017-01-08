@@ -120,7 +120,7 @@ grunderna:
     -   title: Kartor och platser
         slug: kartor-och-platser
         sub:
-            -   title: Skapa/redigera platser
+            -   title: Skapa och redigera platser
                 slug: platser
     -   title: Tips och trick
         slug: tips

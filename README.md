@@ -68,7 +68,7 @@ means the section has yet to be written.
     * Managing callers 🇸🇪
     * The call log 🇸🇪
 * Managing your region 🇸🇪
-    * Managing locations
+    * Managing locations 🇸🇪
 * Tips and tricks
     * Using keyboard shortcuts
     * Editing rich text
