@@ -66,7 +66,7 @@ means the section has yet to be written.
     * Call assignment basics 🇸🇪
     * Creating a call assignment 🇸🇪
     * Managing callers 🇸🇪
-    * Analyzing call assignment progress
+    * The call log 🇸🇪
 * Managing your region
     * Location basics
     * Managing locations

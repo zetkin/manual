@@ -115,8 +115,8 @@ grunderna:
                 slug: skapa-ringuppdrag
             -   title: Hantera ringare
                 slug: ringare
-            -   title: Analysera framsteg
-                slug: analysera
+            -   title: Samtalsloggen
+                slug: loggen
     -   title: Geografi
         slug: geografi
         sub:
