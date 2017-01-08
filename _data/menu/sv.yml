@@ -117,8 +117,8 @@ grunderna:
                 slug: ringare
             -   title: Samtalsloggen
                 slug: loggen
-    -   title: Geografi
-        slug: geografi
+    -   title: Kartor och platser
+        slug: kartor-och-platser
         sub:
             -   title: Skapa/redigera platser
                 slug: platser

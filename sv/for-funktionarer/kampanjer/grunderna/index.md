@@ -97,7 +97,7 @@ En plats är en namngiven geografisk punkt med longitud och latitud. Precis som
 med _aktiviteter_ sparas dessa i Zetkin för att underlätta statistik, analys
 av geografisk spridning, filtrering och sökningar baserat på plats.
 
-Platser hanterar du i det separata [kartverktyget](/sv/for-funktionarer/geografi)
+Platser hanterar du i det separata [kartverktyget](/sv/for-funktionarer/kartor-och-platser)
 i Zetkin Organize.
 
 ### Anmälan
