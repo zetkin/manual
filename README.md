@@ -71,7 +71,7 @@ means the section has yet to be written.
     * Managing locations 🇸🇪
 * Tips and tricks 🇸🇪
     * Using keyboard shortcuts 🇸🇪
-    * Editing rich text
+    * Editing rich text 🇸🇪
 * Tutorials
     * Set up your Organization (settings, officials, import)
     * Plan a campaign
