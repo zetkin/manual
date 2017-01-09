@@ -73,7 +73,7 @@ means the section has yet to be written.
     * Using keyboard shortcuts 🇸🇪
     * Editing rich text 🇸🇪
 * Tutorials 🇸🇪
-    * Set up your Organization (settings, officials, import)
+    * Import your members 🇸🇪
     * Plan a campaign
     * Mobilize a campaign using phone banking
     * Manage a running campaign
