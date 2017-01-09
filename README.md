@@ -69,8 +69,8 @@ means the section has yet to be written.
     * The call log 🇸🇪
 * Managing your region 🇸🇪
     * Managing locations 🇸🇪
-* Tips and tricks
-    * Using keyboard shortcuts
+* Tips and tricks 🇸🇪
+    * Using keyboard shortcuts 🇸🇪
     * Editing rich text
 * Tutorials
     * Set up your Organization (settings, officials, import)
