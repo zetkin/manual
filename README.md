@@ -72,7 +72,7 @@ means the section has yet to be written.
 * Tips and tricks 🇸🇪
     * Using keyboard shortcuts 🇸🇪
     * Editing rich text 🇸🇪
-* Tutorials
+* Tutorials 🇸🇪
     * Set up your Organization (settings, officials, import)
     * Plan a campaign
     * Mobilize a campaign using phone banking

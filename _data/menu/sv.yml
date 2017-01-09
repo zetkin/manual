@@ -138,8 +138,8 @@ grunderna:
                 slug: planera-en-kampanj
             -   title: Mobilisera med ringuppdrag
                 slug: mobilisera-med-ringuppdrag
-            -   title: Organisera en kampanj
-                slug: organisera-en-kampanj
+            -   title: Genomför en kampanj
+                slug: genomfor-en-kampanj
 
 "for-utvecklare":
     -   title: Inledning
