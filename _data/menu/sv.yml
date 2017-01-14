@@ -98,8 +98,8 @@ grunderna:
             -   title: Kampanjaktioner
                 slug: aktioner
                 sub:
-                    -   title: Skapa och redigera aktion
-                        slug: skapa-aktion
+                    -   title: Skapa och redigera aktioner
+                        slug: skapa-och-redigera
                     -   title: Anmälningar och bokningar
                         slug: bokningar
                     -   title: Skicka påminnelser

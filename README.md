@@ -57,8 +57,7 @@ means the section has yet to be written.
     * Campaign basics and terminology 🇸🇪
     * Campaign phases 🇸🇪
     * Campaign actions 🇸🇪
-        * Creating an action
-        * Editing an action
+        * Creating and editing actions 🇸🇪
         * Handling sign-ups and bookings
         * Sending action reminders
     * Analyzing campaign distribution and geography
