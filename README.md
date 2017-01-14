@@ -59,7 +59,7 @@ means the section has yet to be written.
     * Campaign actions 🇸🇪
         * Creating and editing actions 🇸🇪
         * Handling sign-ups and bookings 🇸🇪
-        * Sending action reminders
+        * Sending action reminders 🇸🇪
     * Analyzing campaign distribution and geography
 * Working with phone banking 🇸🇪
     * Call assignment basics 🇸🇪
