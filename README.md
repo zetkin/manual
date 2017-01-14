@@ -71,6 +71,8 @@ means the section has yet to be written.
 * Tips and tricks 🇸🇪
     * Using keyboard shortcuts 🇸🇪
     * Editing rich text 🇸🇪
+    * Filtering lists with the filter drawer
+    * Tricks while searching (e.g. searching for dates)
 * Tutorials 🇸🇪
     * Import your members 🇸🇪
     * Plan a campaign
