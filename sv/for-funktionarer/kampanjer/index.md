@@ -32,5 +32,5 @@ startar, hur kampanjen utvecklas och hur allt gick till i efterhand.
 Om du vill lära dig hur man använder kampanjverktyget från start till mål, läs
 följande lektioner:
 
-* [Lektion: Planera en kampanj](/sv/for-funktionarer/lektioner/planera-en-kampanj)
-* [Lektion: Organisera en kampanj](/sv/for-funktionarer/lektioner/organisera-en-kampanj)
+* [Guide: Planera en kampanj](/sv/for-funktionarer/guider/planera-en-kampanj)
+* [Guide: Genomför en kampanj](/sv/for-funktionarer/guider/genomfor-en-kampanj)
