@@ -60,7 +60,7 @@ means the section has yet to be written.
         * Creating and editing actions 🇸🇪
         * Handling sign-ups and bookings 🇸🇪
         * Sending action reminders 🇸🇪
-    * Analyzing campaign distribution and geography
+    * Analyzing campaign distribution and geography 🇸🇪
 * Working with phone banking 🇸🇪
     * Call assignment basics 🇸🇪
     * Creating a call assignment 🇸🇪
