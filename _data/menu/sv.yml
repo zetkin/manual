@@ -93,8 +93,8 @@ grunderna:
         sub:
             -   title: Grunder och terminologi
                 slug: grunderna
-            -   title: Skapa en kampanj
-                slug: skapa-kampanj
+            -   title: Kampanjens faser
+                slug: kampanjens-faser
             -   title: Kampanjaktioner
                 slug: aktioner
                 sub:

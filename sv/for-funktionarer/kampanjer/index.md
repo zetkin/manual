@@ -20,7 +20,7 @@ man förstå terminologin.
 ## Arbeta med kampanjer
 Om du vill lära dig hur man skapar och redigerar kampanjer, fyller dem med
 innehåll och arbetar löpande med att organisera kampanjarbetet, läs kapitlen
-[Skapa en kampanj](./skapa-kampanj) och [Kampanjaktioner](./aktioner).
+[Kampanjens faser](./kampanjens-faser) och [Kampanjaktioner](./aktioner).
 
 ## Analysera kampanj
 Zetkin innehåller verktyg för att analysera ett kampanjupplägg innan kampanjen

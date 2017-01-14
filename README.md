@@ -55,7 +55,7 @@ means the section has yet to be written.
     * Sending invites 🇸🇪
 * Working with campaigns 🇸🇪
     * Campaign basics and terminology 🇸🇪
-    * Creating a campaign
+    * Campaign phases 🇸🇪
     * Campaign actions
         * Creating an action
         * Editing an action
