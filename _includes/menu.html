@@ -20,8 +20,40 @@
     {% endif %}
 
     <li{% if selected %} class="selected"{% endif %}><a href="{{ slug }}">{{ item.title }}</a>
+    {% if include.show_toc and selected %}
+        {% assign lines=page.content |newline_to_br |split:"<br />" %}
+        {% assign cur_level = 1 %}
+        {% assign has_toc = false %}
+        {% capture toc_content %}
+        {% for line in lines %}
+            {% assign line_prefix=line |split:" " |first %}
+            {% if line_prefix == '##' %}
+                {% assign line_level=1 %}
+            {% elsif line_prefix == '###' %}
+                {% assign line_level=2 %}
+            {% elsif line_prefix == '####' %}
+                {% assign line_level=3 %}
+            {% else %}
+                {% assign line_level=0 %}
+            {% endif %}
+
+            {% if line_level != 0 %}
+                {% assign has_toc = true %}
+                <li class="toc-level{{ line_level }}">
+                    {% assign header=line |remove: line_prefix %}
+                    <a href="#{{ header |slugify:pretty |replace:'å','' |replace:'ä','' |replace:'ö','' }}">{{ header }}</a>
+                </li>
+            {% endif %}
+        {% endfor %}
+        {% endcapture %}
+        {% if has_toc %}
+        <ul class="toc">
+            {{ toc_content }}
+        </ul>
+        {% endif %}
+    {% endif %}
     {% if item.sub %}
-    {% include menu.html menu=item.sub parent=slug %}
+    {% include menu.html menu=item.sub parent=slug show_toc=true %}
     {% endif %}
     </li>
 {% endfor %}
