@@ -10,6 +10,11 @@
     
         <link rel="stylesheet" href="{{ "/css/main.css" | prepend: site.baseurl }}">
         <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
+        <script
+            src="https://code.jquery.com/jquery-3.1.1.min.js"
+            integrity="sha256-hVVnYaiADRTO2PzUGmuLJr8BLUSjGIZsDYGmIJLv2b8="
+            crossorigin="anonymous"></script>
+        <script src="/assets/js/main.js"></script>
     </head>
     <body>
         <div class="banner">
@@ -62,7 +67,7 @@
                 {% assign section=crumbs[1] %}
                 {% assign menu=site.data.menu[page.lang][section] %}
                 {% capture base %}/{{ page.lang }}/{{ section }}{% endcapture %}
-                {% include menu.html menu=menu parent=base show_toc=true %}
+                {% include menu.html menu=menu parent=base %}
             </nav>
             <div class="content">
                 <h1>{{ page.title }}</h1>
