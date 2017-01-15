@@ -23,4 +23,19 @@ window.onload = function() {
 
         selectedItem.append(toc);
     }
+
+    $('a[href^="#"]').each(function() {
+        var a = $(this);
+        var id = a.attr('href');
+        var h = $(id);
+
+        a.on('click', function() {
+            var target = h.offset().top;
+            var current = $('body').prop('scrollTop');
+            var dur = Math.abs(target - current) * 0.3;
+            $('html, body').animate({ scrollTop: target }, dur);
+
+            return false;
+        });
+    });
 };
