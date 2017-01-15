@@ -3,10 +3,11 @@ window.onload = function() {
     var selectedItem = $('.toc-menu .selected');
 
     if (selectedItem) {
+        var headers = $('.content h2, .content h3, .content h4');
         var toc = $(document.createElement('ul'));
         toc.addClass('toc');
 
-        $('.content h2, .content h3, .content h4').each(function() {
+        headers.each(function() {
             var h = $(this);
             var level = parseInt(h.prop('tagName').substr(1, 1)) - 1;
 
@@ -21,7 +22,9 @@ window.onload = function() {
             toc.append(item);
         });
 
-        selectedItem.find('a').first().after(toc);
+        if (headers.length > 0) {
+            selectedItem.find('a').first().after(toc);
+        }
     }
 
     $('a[href^="#"]').each(function() {
