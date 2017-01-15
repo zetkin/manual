@@ -21,7 +21,7 @@ window.onload = function() {
             toc.append(item);
         });
 
-        selectedItem.append(toc);
+        selectedItem.find('a').first().after(toc);
     }
 
     $('a[href^="#"]').each(function() {
