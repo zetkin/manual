@@ -18,24 +18,7 @@
             <div class="content">
                 {{ content }}
             </div>
-            <footer>
-                <p>
-                    {{ site.data.strings.en.footer.credits }}
-                </p>
-                <p>
-                    <a href="//zetkin.org"><img
-                        class="zf-logo"
-                        alt="Zetkin Foundation"
-                        src="/assets/img/zf-logo-black.png"></a>
-                </p>
-                <p>
-                    <a href="//zetkin.org">Zetkin Foundation</a> |
-                    <a href="//zetk.in">zetk.in</a> |
-                    <a href="//organize.zetk.in">Zetkin Organize</a>
-                </p>
-            </footer>
+            {% include footer.html lang='en' %}
         </div>
-        <script src="https://use.typekit.net/tqq3ylv.js"></script>
-        <script>try{Typekit.load({ async: true });}catch(e){}</script>
     </body>
 </html>
