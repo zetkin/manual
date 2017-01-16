@@ -39,9 +39,8 @@ av Zetkin. Det är först när vi kommit fram till dessa grundförutsättningar 
 det är dags att vända sig till Zetkins verktyg för att skapa kampanjen.
 
 ## Steg 1. Skapa kampanj och aktioner
-I _Kampanj_-sektionen i Zetkin Organize finns aktionskalendern. Här sker det
-mesta arbetet när vi planerar en kampanj. Det är här vi skapar kampanjens
-aktioner.
+I _Kampanj_-sektionen i Zetkin Organize finns aktionskalendern. Här sker mycket
+av arbetet när vi planerar en kampanj. Det är här vi skapar kampanjens aktioner.
 
 > Läs mer om hur man skapar aktioner i avsnittet
 > [Skapa och redigera aktioner](../../kampanjer/aktioner/skapa-och-redigera).
@@ -82,15 +81,15 @@ att sprida aktionerna över olika tider på dagen, olika platser och aktiviteter
 men detta är en preliminärplanering som vi snart ska justera.
 
 Istället fokuserar vi just nu på att få en bra intensitet över tid, alltså
-antalet aktioner per dag. I aktionskalendern ser vi enkelt om vi har noll, en
-eller två aktioner per dag och kan justera genom att dra och släppa från en dag
-till en annan.
+antalet aktioner per dag. I aktionskalendern ser vi enkelt hur många aktioner vi
+har på en dag och kan justera genom att dra och släppa från en dag till en
+annan.
 
 ![Skapa aktion](./skapa-aktion.png)
 
 När vi har en grund är det dags att börja analysera aktionerna i vår preliminära
 plan och justera så att vi får rätt spridning mellan olika tider, platser och
-aktivitter.
+aktiviteter.
 
 ## Steg 2. Analysera och justera
 Mycket av analysen sker i den undersektion som heter _Spridning_. Vi börjar med
@@ -128,7 +127,7 @@ När vi för musen över "Schloss" lyser de tre aktionerna upp i mini-kalendern
 Vi vill flytta den sista aktionen, söndagen den 30/4. Vi kan klicka på aktionen
 på plats i mini-kalendern, och håller ner `alt` när vi klickar för att komma
 direkt till panelen _Redigera aktion_. Vi ändrar platsen och sparar aktionen.
-Distributionsdiagrammen upppdateras omedelbart med den nya fördelningen.
+Distributionsdiagrammen uppdateras omedelbart med den nya fördelningen.
 
 ![Byt plats](./byt-plats.gif)
 
@@ -206,8 +205,8 @@ alt-klickar aktionen som lyser upp, och ändrar tiderna till 17-19. När vi
 gör samma sak med den andra aktionen märker vi att det är en affischering.
 Affischeringar ska ligga sent på kvällen, så vi låter den vara.
 
-Efter ändringarna har vi endast aktioner på Dorfplatz på morgonen och efter
-17.00, så som är lämpligt vid en pendlingshållplats i vår stad.
+Efter ändringarna har vi bara flygbladsutdelningar på Dorfplatz på morgonen och
+efter 17.00, så som är lämpligt vid en pendlingshållplats i vår stad.
 
 ### Flygbladsutdelning alla tider
 Slutligen vill vi kontrollera att vi nu har flygbladsutdelningar relativt
@@ -241,7 +240,7 @@ nöjda med spridningen på våra planerade aktioner.
 ## Steg 3. Kontrollera kampanj
 Vi har fått en bra inblick i hur våra aktioner är spridda mellan olika platser
 och aktiviteter, men det som inte är uppenbart i spridningsvyn är huruvida alla
-platser på en viss plats äger rum i slutet av kampanjen, i början, eller är väl
+aktioner på en viss plats äger rum i slutet av kampanjen, i början, eller är väl
 distribuerade över hela kampanjen. Vi kan så klart se det när vi håller musen
 över en viss plats, men det kan vara krångligt att göra med många platser, och
 dessutom är platser i vår stad inte isolerade öar utan hänger ihop i större
