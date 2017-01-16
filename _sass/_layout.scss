@@ -193,26 +193,3 @@
         }
     }
 }
-
-footer {
-    padding: 20px;
-    margin: 0 auto;
-    max-width: 400px;
-    text-align: center;
-    font-size: 80%;
-    color: $c-ui-dark;
-
-    .zf-logo {
-        opacity: 0.3;
-        width: 120px;
-        height: auto;
-    }
-
-    a {
-        color: inherit;
-
-        &:hover {
-            color: $c-ui-darker;
-        }
-    }
-}
