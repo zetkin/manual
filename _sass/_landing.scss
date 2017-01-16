@@ -1,0 +1,50 @@
+html, body {
+    height: 100%;
+}
+
+body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.page {
+    text-align: center;
+    width: 90%;
+    margin: 0 5%;
+}
+
+.logo {
+    width: 40%;
+    max-width: 100px;
+    height: auto;
+    display: block;
+    margin: 0 auto 20px;
+}
+
+.content {
+    a {
+        color: $c-brand-main;
+        text-decoration: none;
+        font-weight: bold;
+
+        &:hover {
+            color: $text-color;
+            text-decoration: underline;
+        }
+    }
+}
+
+@include medium-screen {
+    .page {
+        margin: 0 auto;
+        max-width: 600px;
+    }
+}
+
+@media screen and (max-height: 640px) {
+    body {
+        display: block;
+        padding: 40px 0;
+    }
+}

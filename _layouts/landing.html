@@ -8,12 +8,34 @@
         <title>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
         <meta name="description" content="{{ site.description }}">
     
-        <link rel="stylesheet" href="{{ "/css/main.css" | prepend: site.baseurl }}">
+        <link rel="stylesheet" href="{{ "/css/landing.css" | prepend: site.baseurl }}">
         <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
     </head>
     <body>
-        <div class="page-content">
-            {{ content }}
+        <div class="page">
+            <img class="logo" alt="Zetkin" src="/assets/img/logo-red.png"/>
+
+            <div class="content">
+                {{ content }}
+            </div>
+            <footer>
+                <p>
+                    {{ site.data.strings.en.footer.credits }}
+                </p>
+                <p>
+                    <a href="//zetkin.org"><img
+                        class="zf-logo"
+                        alt="Zetkin Foundation"
+                        src="/assets/img/zf-logo-black.png"></a>
+                </p>
+                <p>
+                    <a href="//zetkin.org">Zetkin Foundation</a> |
+                    <a href="//zetk.in">zetk.in</a> |
+                    <a href="//organize.zetk.in">Zetkin Organize</a>
+                </p>
+            </footer>
         </div>
+        <script src="https://use.typekit.net/tqq3ylv.js"></script>
+        <script>try{Typekit.load({ async: true });}catch(e){}</script>
     </body>
 </html>

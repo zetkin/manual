@@ -2,9 +2,11 @@
 layout: landing
 ---
 
-# Zetkin manual
-This is where the Zetkin user manual will be.
+# Zetkin Manual
+This is The Zetkin Manual, the most exhaustive resource on how to use Zetkin,
+the platform for organizing activism. Pick your preferred language to start
+learning.
 
-# Work in progress versions
+## Language versions
 [Svenska](/sv) |
 [English](/en)
