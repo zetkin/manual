@@ -121,11 +121,11 @@
             }
 
             li.toc-level1 {
-                margin-left: 10px;
+                margin-left: 0;
             }
 
             li.toc-level2 {
-                margin-left: 20px;
+                margin-left: 15px;
             }
 
             li.toc-level3 {
@@ -134,15 +134,15 @@
         }
 
         li .toc {
-            margin-left: -30px;
+            margin-left: 0;
         }
 
         li li .toc {
-            margin-left: -60px;
+            margin-left: -30px;
         }
 
         li li li .toc {
-            margin-left: -90px;
+            margin-left: -60px;
         }
     }
 
