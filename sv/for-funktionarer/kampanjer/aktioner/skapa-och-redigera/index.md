@@ -58,7 +58,8 @@ exempelvis "Min kampanj", och välj alternativet "Skapa Min kampanj". En ny pane
 På samma sätt kan du skapa nya platser och kampanjer direkt genom listan.
 
 ## Redigera aktioner
-> Var försiktig med att flytta aktioner som aktivister börjat anmäla sig till.
+> Om du klickar på en aktion öppnas en sammanfattning. Om du istället vill öppna
+> redigeringen direkt, håll inne `alt` när du klickar på aktionen.
 
 Du kan redigera de flesta aspekter av en aktion i efterhand. När du klickar på
 en aktion i kalendern eller i aktionslistan öppnas en sammanfattning av
@@ -68,6 +69,8 @@ _Redigera aktion_ för att ändra inställningar såsom datum och tid, aktivitet
 och plats, m.m.
 
 ## Flytta aktioner i kalendern
+> Var försiktig med att flytta aktioner som aktivister börjat anmäla sig till.
+
 Om du vill byta datum på en aktion kan du också göra det genom att klicka och
 dra den direkt i kalendern.
 
