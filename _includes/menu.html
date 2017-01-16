@@ -19,7 +19,7 @@
         {% endif %}
     {% endif %}
 
-    <li{% if selected %} class="selected"{% endif %}><a href="{{ slug }}">{{ item.title }}</a>
+    <li class="{{ item.ref }}{% if selected %} selected{% endif %}"><a href="{{ slug }}">{{ item.title }}</a>
     {% if item.sub %}
     {% include menu.html menu=item.sub parent=slug %}
     {% endif %}

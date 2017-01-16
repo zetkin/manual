@@ -1,12 +1,16 @@
 sections:
     -   title: Grunderna
         slug: grunderna
+        ref: basics
     -   title: För aktivister
         slug: for-aktivister
+        ref: activist
     -   title: För funktionärer
         slug: for-funktionarer
+        ref: official
     -   title: För utvecklare
         slug: for-utvecklare
+        ref: developer
 
 grunderna:
     -   title: Inledning

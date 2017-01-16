@@ -1,7 +1,6 @@
 .section-menu {
     text-align: center;
     background-color: #eee;
-    padding: 5px;
 
     a {
         text-decoration: none;
@@ -20,10 +19,33 @@
 
     li {
         display: inline-block;
-        margin: 0 10px;
         list-style-type: none;
 
+        border-bottom: 5px solid transparent;
+        transition: border-color 0.4s;
+
+        &:hover, &.selected {
+            transition: border-color 0.3s;
+            &.basics {
+                border-color: $c-brand-main-orange;
+            }
+
+            &.activist {
+                border-color: $c-brand-main-pink;
+            }
+
+            &.official {
+                border-color: $c-brand-comp-light;
+            }
+
+            &.developer {
+                border-color: $c-brand-comp-dark;
+            }
+        }
+
         a {
+            display: block;
+            padding: 5px 10px;
             color: $c-ui-darker;
             font-weight: normal;
 
