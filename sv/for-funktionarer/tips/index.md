@@ -10,3 +10,4 @@ kicker: |
 
 * [Navigera snabbare med snabbtangenter](./snabbtangenter)
 * [Formatera text med textredigeraren](./text)
+* [Snabbredigera med alt-klick](./snabbredigera)

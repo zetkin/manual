@@ -133,6 +133,8 @@ grunderna:
                 slug: snabbtangenter
             -   title: Formatera text
                 slug: text
+            -   title: Snabbredigera med alt-klick
+                slug: snabbredigera
     -   title: Guider
         slug: guider
         sub:

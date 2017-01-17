@@ -71,7 +71,7 @@ means the section has yet to be written.
 * Tips and tricks 🇸🇪
     * Using keyboard shortcuts 🇸🇪
     * Editing rich text 🇸🇪
-    * Quick-edit with alt key
+    * Quick-edit with alt key 🇸🇪
     * Filtering lists with the filter drawer
     * Tricks while searching (e.g. searching for dates)
 * Tutorials 🇸🇪
