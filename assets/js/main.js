@@ -22,7 +22,7 @@ window.onload = function() {
             toc.append(item);
         });
 
-        if (headers.length > 0) {
+        if (headers.length > 1) {
             selectedItem.find('a').first().after(toc);
         }
     }
