@@ -21,28 +21,6 @@
         display: inline-block;
         list-style-type: none;
 
-        border-bottom: 5px solid transparent;
-        transition: border-color 0.4s;
-
-        &:hover, &.selected {
-            transition: border-color 0.3s;
-            &.basics {
-                border-color: $c-brand-main-orange;
-            }
-
-            &.activist {
-                border-color: $c-brand-main-pink;
-            }
-
-            &.official {
-                border-color: $c-brand-comp-light;
-            }
-
-            &.developer {
-                border-color: $c-brand-comp-dark;
-            }
-        }
-
         a {
             display: block;
             padding: 5px 10px;
@@ -57,6 +35,32 @@
 
         &.selected > a {
             color: black;
+        }
+    }
+
+    @include medium-screen {
+        li {
+            border-bottom: 5px solid transparent;
+            transition: border-color 0.4s;
+
+            &:hover, &.selected {
+                transition: border-color 0.3s;
+                &.basics {
+                    border-color: $c-brand-main-orange;
+                }
+
+                &.activist {
+                    border-color: $c-brand-main-pink;
+                }
+
+                &.official {
+                    border-color: $c-brand-comp-light;
+                }
+
+                &.developer {
+                    border-color: $c-brand-comp-dark;
+                }
+            }
         }
     }
 }
