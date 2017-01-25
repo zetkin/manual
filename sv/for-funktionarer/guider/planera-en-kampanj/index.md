@@ -1,7 +1,7 @@
 ---
 lang: sv
 slug: planera-en-kampanj
-ref: official.guides.planacampaign
+ref: official.tutorials.planacampaign
 title: "Guide: Planera en kampanj"
 kicker: |
     Det första steget i en kampanj är att planera de aktioner som ska ingå i

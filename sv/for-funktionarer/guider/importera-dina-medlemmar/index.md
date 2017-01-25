@@ -1,7 +1,7 @@
 ---
 lang: sv
 slug: importera-dina-medlemmar
-ref: tutorials.importyourmembers
+ref: official.tutorials.importyourmembers
 title: "Guide: Importera dina medlemmar"
 kicker: |
     För många är det första steget med Zetkin att importera medlemmar från ett
