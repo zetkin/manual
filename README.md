@@ -77,7 +77,7 @@ means the section has yet to be written.
 * Tutorials 🇸🇪
     * Import your members 🇸🇪
     * Plan a campaign 🇸🇪
-    * Mobilize a campaign using phone banking
+    * Mobilize a campaign using phone banking 🇸🇪
     * Manage a running campaign
 
 ### For developers
