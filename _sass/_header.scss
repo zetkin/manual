@@ -1,16 +1,43 @@
 .banner {
-    padding: 2em 1em;
-    font-size: 80%;
-    text-align: center;
-    background: linear-gradient($c-ui-darker, darken($c-ui-darker, 20%));
+    padding: 3em;
+    margin: 0;
+    background-color: $c-brand-comp-light;
+    background-image: linear-gradient(
+        $c-brand-comp-light 0,
+        $c-brand-comp-dark 100%);
+
     color: white;
 
+    text-align: center;
+    font-size: 12px;
+
+    h1 {
+        font-size: 1.5em;
+        font-weight: bold;
+    }
+
+    p {
+        max-width: 50em;
+        margin: 1em auto;
+    }
+
     a {
+        display: inline-block;
+        border: 1px solid white;
+        border-radius: 10em;
+        padding: 0.8em 1.3em;
         color: white;
+        font-weight: bold;
+        text-decoration: none;
 
         &:hover {
-            color: $c-brand-main;
+            color: $c-brand-comp-dark;
+            background-color: white;
         }
+    }
+
+    @include medium-screen {
+        font-size: 14px;
     }
 }
 
