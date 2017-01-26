@@ -2,6 +2,7 @@
     padding: 2em 1em;
     font-size: 80%;
     text-align: center;
+    background-color: $c-ui-darker;
     background: linear-gradient($c-ui-darker, darken($c-ui-darker, 20%));
     color: white;
 
@@ -27,6 +28,7 @@
         text-decoration: none;
     }
 
+    background-color: $c-brand-main;
     background: radial-gradient(
         circle at 50% 50%,
         $c-brand-main-orange,
