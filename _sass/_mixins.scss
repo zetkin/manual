@@ -2,6 +2,11 @@
   @media (min-width: #{$medium-width}) {
     @content;
   }
+
+  // Hack to use this same code for IE versions 6, 7, 8
+  @media \0screen\,screen\9 {
+    @content;
+  }
 }
 
 @mixin large-screen {
