@@ -35,13 +35,3 @@ Den högre nivån kallas _administratör_. Administratörer har tillräckliga
 rättigheter för att göra allt som behövs i en organisation, exempelvis att
 lägga till och ta bort människor ur personlistan, planera kampanjer och
 skapa ringuppdrag.
-
-### Rättighetsmatris
-I matrisen nedan kan du se vad organisatörer respektive administratörer
-har rättighet att göra.
-
-| Rättighet                                 | Organisatör   | Administratör
-|-------------------------------------------|:-------------:|:-------------:
-| Logga in på Zetkin Organize               | Ja            | Ja
-| Planera kampanjer                         |               | Ja
-| Organisera kampanjaktioner löpande        | Ja            | Ja
