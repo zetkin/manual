@@ -41,7 +41,7 @@
     }
 }
 
-header {
+.header {
     padding: 10px;
 
     &:after {
@@ -54,6 +54,7 @@ header {
         text-decoration: none;
     }
 
+    background-color: $c-brand-main;
     background: radial-gradient(
         circle at 50% 50%,
         $c-brand-main-orange,

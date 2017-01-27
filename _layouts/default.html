@@ -27,7 +27,7 @@
             <a href="{{ banner.cta.href }}">{{ banner.cta.text }}</a>
         </div>
         {% endif %}
-        <header>
+        <div class="header">
             <div class="logo">
                 <a href="/{{ page.lang }}"><img
                     src="/assets/img/logo-white.png" alt="Zetkin"></a>
@@ -47,7 +47,7 @@
                 {% endfor %}
                 </ul>
             </div>
-        </header>
+        </div>
         <div class="section-menu">
             {% assign menu=site.data.menu[page.lang].sections %}
             {% capture base %}/{{ page.lang }}{% endcapture %}
@@ -70,12 +70,12 @@
                 {% endfor %}
                 {% endif %}
             </div>
-            <nav class="toc-menu">
+            <div class="toc-menu">
                 {% assign section=crumbs[1] %}
                 {% assign menu=site.data.menu[page.lang][section] %}
                 {% capture base %}/{{ page.lang }}/{{ section }}{% endcapture %}
                 {% include menu.html menu=menu parent=base %}
-            </nav>
+            </div>
             <div class="content">
                 <h1>{{ page.title }}</h1>
                 {% if page.kicker %}
