@@ -11,7 +11,7 @@ Zetkin sparar inga lösenord i klartext, utan krypterar dem på ett sätt som g�
 att vi inte kan avslöja ditt lösenord för dig eller någon annan. Det betyder att
 om du glömmer lösenordet måste du istället begära ett nytt.
 
-För att återställa ditt lösenord klickar du på länken "Återställ lösenord" vid
+För att återställa ditt lösenord klickar du på länken "Lost password?" vid
 inloggningsformuläret. Fyll sedan i den e-postadress du angivit som
 användarnamn i Zetkin. Ett e-postmeddelande med en speciell länk skickas till
 adressen, och du måste klicka på länken inom 24 timmar för att få möjlighet
