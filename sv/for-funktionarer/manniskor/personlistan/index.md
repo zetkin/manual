@@ -5,8 +5,8 @@ ref: official.people.personlist
 title: Hantera människor i personlistan
 kicker: |
     Personlistan är den vy i Zetkin Organize där du får överblick över
-    människorna i din organisation. Här kan du också lägga, redigera och radera
-    befintliga personer.
+    människorna i din organisation. Här kan du också lägga till, redigera och
+    radera personer.
 ---
 
 Personlistan är det första du möts av i sektionen _Människor_ i Zetkin Organize.
