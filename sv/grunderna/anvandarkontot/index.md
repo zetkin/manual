@@ -10,7 +10,7 @@ kicker: |
 
 ## Skapa ett användarkonto
 Innan du kan börja använda Zetkin måste du skapa ett användarkonto. Det gör du
-via [aktivistportalen](https://www.zekt.in/register). Fyll i för- och efternamn
+[via aktivistportalen](https://www.zetk.in/register). Fyll i för- och efternamn
 samt e-postadress och välj ett lösenord. Din e-postadress blir ditt
 användarnamn.
 
