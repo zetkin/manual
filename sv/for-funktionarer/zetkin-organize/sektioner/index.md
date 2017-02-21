@@ -29,7 +29,7 @@ Zetkin-användare.
 
 Välj ett ämne om du vill läsa mer om vad du kan göra under _Människor_.
 
-* [Importera användare](/sv/for-funktionarer/manniskor/personlistan)
+* [Importera användare](/sv/for-funktionarer/manniskor/importera)
 * [Lägga till och uppdatera personuppgifter](/sv/for-funktionarer/manniskor/personlistan)
 * [Bjud in Zetkin-användare](/sv/for-funktionarer/manniskor/bjud-in)
 * [Använd etiketter för att organisera](/sv/for-funktionarer/manniskor/etiketter)
@@ -41,8 +41,7 @@ spridningen av aktioner i en eller flera kampanjer.
 
 Välj ett ämne om du vill läsa mer om vad du kan göra under _Kampanj_.
 
-* [Skapa](/sv/for-funktionarer/kampanjer/skapa-kampanj) och
-  [analysera](/sv/for-funktionarer/kampanjer/analysera) kampanjer
+* [Verktyg för kampanjens olika faser](/sv/for-funktionarer/kampanjer/kampanjens-faser)
 * [Arbeta med aktioner](/sv/for-funktionarer/kampanjer/aktioner) i en kampanj
 
 ## Sektionen _Dialog_
@@ -51,9 +50,9 @@ exempelvis rundringningar till medlemmar eller andra målgrupper.
 
 Välj ett ämne om du vill läsa mer om vad du kan göra under _Kampanj_.
 
-* [Skapa ringuppdrag](/sv/for-funktionarer/phone-banking/ringuppdrag) och
-  [hantera vilka som ringer](/sv/for-funktionarer/phone-banking/ringare)
-* [Följa upp ringningar](/sv/for-funktionarer/phone-banking/analysera)
+* [Skapa ringuppdrag](/sv/for-funktionarer/rundringningar/skapa-ringuppdrag) och
+  [hantera vilka som ringer](/sv/for-funktionarer/rundringningar/ringare)
+* [Följa upp ringningar](/sv/for-funktionarer/rundringningar/loggen)
 
 ## Sektionen _Kartor_
 Under Kartor-sektionen jobbar du med ditt geografiska område. Här kan du skapa
@@ -61,7 +60,7 @@ och hantera de platser där din organisation anordnar aktiviteter.
 
 Välj ett ämne om du vill läsa mer om vad du kan göra under _Kampanj_.
 
-* [Skapa och redigera platser](/sv/for-funktionarer/geografi/platser)
+* [Skapa och redigera platser](/sv/for-funktionarer/kartor-och-platser/platser)
 
 ## Sektionen _Inställningar_
 Under Inställningar ändrar du Zetkin-inställningar för din organisation.
