@@ -9,7 +9,7 @@ kicker: |
 ---
 
 ## Vad är Zetkin?
-Zetkin är ett webbaserat system som utvecklas för att underlätta för
+Zetkin är ett webbaserat system som nu utvecklas för att underlätta för
 människor att bli aktiva i vänsterradikala organisationer, och för dessa
 organisationer att utföra alla de uppgifter som är typiska i en aktivistisk
 organistion.
