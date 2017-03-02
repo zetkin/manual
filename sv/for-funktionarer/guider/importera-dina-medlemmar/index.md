@@ -60,13 +60,13 @@ kolumnen "Grupper".
 
 * Förnamn
 * Efternamn
-* Kön
 * E-post
 * Telefon
 * C/O-adress
 * Gatuadress
 * Postnummer
 * Ort
+* Kön
 
 ## Steg 3. Ställ in etiketter
 Den sista kolumnen, "Grupp" innehåller information om vilka grupper varje
