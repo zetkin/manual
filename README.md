@@ -68,7 +68,7 @@ means the section has yet to be written.
     * The call log 🇸🇪
 * Surveys 🇸🇪
     * Creating and editing surveys 🇸🇪
-    * Questions and text blocks
+    * Questions and text blocks 🇸🇪
     * Collecting submissions
     * Following up survey responses
     * Survey access rules
