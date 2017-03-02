@@ -71,7 +71,6 @@ means the section has yet to be written.
     * Questions and text blocks 🇸🇪
     * Collecting submissions 🇸🇪
     * Following up survey responses 🇸🇪
-    * Survey access rules
 * Managing your region 🇸🇪
     * Managing locations 🇸🇪
 * Tips and tricks 🇸🇪

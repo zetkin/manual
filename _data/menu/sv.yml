@@ -132,8 +132,6 @@ grunderna:
                 slug: samla-in
             -   title: Följ upp enkätsvar
                 slug: enkatsvar
-            -   title: Regler för åtkomst
-                slug: atkomst
     -   title: Kartor och platser
         slug: kartor-och-platser
         sub:
