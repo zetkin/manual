@@ -58,6 +58,7 @@ på är:
 * C/O-adress
 * Gatuadress
 * Postnummer
+* Ort
 * Kön
 
 ### Etiketter
