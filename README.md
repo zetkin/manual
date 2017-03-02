@@ -69,7 +69,7 @@ means the section has yet to be written.
 * Surveys 🇸🇪
     * Creating and editing surveys 🇸🇪
     * Questions and text blocks 🇸🇪
-    * Collecting submissions
+    * Collecting submissions 🇸🇪
     * Following up survey responses
     * Survey access rules
 * Managing your region 🇸🇪
