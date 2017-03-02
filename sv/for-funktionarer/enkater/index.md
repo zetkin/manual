@@ -17,7 +17,7 @@ Zetkins enkäter kan innehålla flera olika typer av frågor samt textblock och
 instruktioner för att förklara din enkät för användaren. Du styr över allt
 innehåll och använder Zetkins enkätbyggare för att skapa och redigera enkäter.
 
-Läs mer [om att bygga enkäter](./bygga-enkat)
+Läs mer [om att bygga enkäter](./skapa-och-redigera)
 
 ## Samla in och följ upp svar
 När du har en färdig enkät är det dags att samla in svar. Du kan skicka ut en
