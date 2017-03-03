@@ -24,6 +24,12 @@ ringarna kan du börja ringa för din organisation.
 
 [Läs mer om att ringa med Zetkin](./ringa-med-zetkin)
 
+## Enkäter i Zetkin
+Organisationer kan använda Zetkin för att genomföra enkäter, exempelvis för att
+samla in synpunkter eller låta dig berätta mer om dig själv.
+
+[Läs mer om enkäter i Zetkin](./enkater)
+
 ## Din sida
 För att hålla koll på vilka aktioner du är inbokad på, vilka ringuppdrag du
 blivit tilldelad, vilka kampanjer som pågår och mer därtill finns din sida.

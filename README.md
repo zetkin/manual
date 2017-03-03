@@ -39,6 +39,7 @@ means the section has yet to be written.
         * Make the call 🇸🇪
         * Report the call 🇸🇪
     * Repeating a call 🇸🇪
+* Surveys 🇸🇪
 
 ### For officials
 * Introduction 🇸🇪
