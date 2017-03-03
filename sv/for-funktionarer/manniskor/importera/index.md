@@ -142,3 +142,17 @@ Därför är det klokt att inkludera externa ID första gången du importerar
 personer till Zetkin.
 
 Efter importen kan du se hur många människor som skapats respektive uppdaterats.
+
+## Om det uppstår dubletter
+Även om du är försiktig och alltid inkluderar något ID för sammanslagning vid en
+import kan dubletter uppstå. Det kan bland annat hända därför att en användare
+har anslutit till din organisation i Zetkin och ett personobjekt därför skapats
+i din persondatabas utan någon koppling till ert register (_Externt ID_).
+
+Om samma person då förekommer i en framtida import från ert medlemsregister
+kommer Zetkin inte kunna koppla samman den importerade personen med den
+befintliga.
+
+I en kommande version av Zetkin finns funktioner för att enkelt söka fram och
+slå samman dubletter som uppstått. Om ni har stora problem med dubletter redan
+idag, kontakta Zetkin Foundation för hjälp.
