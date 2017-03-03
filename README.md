@@ -39,6 +39,7 @@ means the section has yet to be written.
         * Make the call 🇸🇪
         * Report the call 🇸🇪
     * Repeating a call 🇸🇪
+* Surveys 🇸🇪
 
 ### For officials
 * Introduction 🇸🇪
@@ -67,6 +68,11 @@ means the section has yet to be written.
     * Creating a call assignment 🇸🇪
     * Managing callers 🇸🇪
     * The call log 🇸🇪
+* Surveys 🇸🇪
+    * Creating and editing surveys 🇸🇪
+    * Questions and text blocks 🇸🇪
+    * Collecting submissions 🇸🇪
+    * Following up survey responses 🇸🇪
 * Managing your region 🇸🇪
     * Managing locations 🇸🇪
 * Tips and tricks 🇸🇪

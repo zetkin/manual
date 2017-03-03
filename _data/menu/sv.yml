@@ -64,6 +64,8 @@ grunderna:
                         slug: rapportera
             -   title: Att göra om ett samtal
                 slug: gora-om-ett-samtal
+    -   title: Enkäter i Zetkin
+        slug: enkater
 
 "for-funktionarer":
     -   title: Inledning
@@ -123,6 +125,17 @@ grunderna:
                 slug: ringare
             -   title: Samtalsloggen
                 slug: loggen
+    -   title: Enkäter
+        slug: enkater
+        sub:
+            -   title: Skapa och redigera enkäter
+                slug: skapa-och-redigera
+            -   title: Frågor och textblock
+                slug: innehall
+            -   title: Samla in svar
+                slug: samla-in
+            -   title: Följ upp enkätsvar
+                slug: enkatsvar
     -   title: Kartor och platser
         slug: kartor-och-platser
         sub:
