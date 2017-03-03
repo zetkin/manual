@@ -106,6 +106,8 @@ grunderna:
                         slug: skapa-och-redigera
                     -   title: Anmälningar och bokningar
                         slug: bokningar
+                    -   title: Flytta deltagare
+                        slug: flytta-deltagare
                     -   title: Skicka påminnelser
                         slug: paminnelser
             -   title: Analysera kampanj
