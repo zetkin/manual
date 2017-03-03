@@ -49,11 +49,18 @@ Till att börja med är alla kolumner nedsläckta. Vi måste välja rätt
 Zetkin-fält som varje kolumn ska importeras till. Det gör man i den lista
 där det valda alternativet just nu är "Hoppa över kolumn". 
 
+> _Externt ID_ är ett bra sätt att synka mellan Zetkin och ett annat system.
+> Läs mer om [ID för sammanslagning](../../manniskor/importera#id-för-sammanslagning).
+
 ![Välj kolumner](./valjkolumn.png)
 
-Gå igenom följande kolumner och välj rätt fält för varje kolumn. Vi struntar
-i kolumnen "Medlemsnummer" som är det gamla systemets nummer, och väntar med
-kolumnen "Grupper".
+Den första kolumnen är speciell. Där finns ID-nummer från vårt medlemsregister,
+som vi kommer fortsätta använda parallellt med Zetkin. Vi väljer därför att
+importera denna kolumn som _Externt ID_, så kan vi göra fler importer från vårt
+medlemsregister i framtiden med minimal risk för dubletter.
+
+Gå sedan igenom följande kolumner och välj rätt fält för varje kolumn. Vi väntar
+med kolumnen "Grupper".
 
 > Du behöver inte importera all information om du inte vill. E-postadress och
 > telefonnummer räcker bra för de flesta av Zetkins användningsområden.
