@@ -40,6 +40,32 @@ och hur.
 
 ![Välj kolumner att importera](importera.png)
 
+### ID för sammanslagning
+Ifall personer du importerar redan finns i din persondatabas i Zetkin vill du
+antagligen inte att det skapas dubletter. För att Zetkin ska kunna koppla samman
+den befintliga personen med den som importeras behövs någon form av ID. När du
+importerar kan du välja två typer av ID som Zetkin använder för att slå samman
+personer.
+
+![ID för sammanslagning](./id-for-sammanslagning.png)
+
+> Om du importerar från ett annat system, inkludera alltid det andra systemets
+> ID som _Externt ID_, även första gången du importerar.
+
+_Zetkin-ID_ är Zetkins interna ID-nummer. Varje ny person som importeras får ett
+Zetkin-ID. Om den fil du importerar tidigare har exporterats ur Zetkin har den
+antagligen en kolumn för Zetkin-ID.
+
+Du väljer själv vad du vill använda som _Externt ID_ i din organisation. Om ni
+har ett medlemsregister eller annat system som ni importerar ifrån har varje
+person antagligen ett ID-nummer i det systemet. Då är det klokt att inkludera
+det i importen till Zetkin, och välja _Externt ID_ för den kolumnen.
+
+Inkludera _Externt ID_ redan vid första importen. Då kommer framtida importer,
+förutsatt att _Externt ID_ inkluderas även då, inte att resultera i dubletter
+utan istället i att personer i Zetkin uppdateras med de senaste uppgifterna från
+ert register.
+
 ### Personuppgifter
 Det vanligaste är att man vill importera personuppgifter, såsom namn, adress,
 e-postadresser och telefonnummer.
@@ -102,10 +128,17 @@ människor som fått etiketter.
 ## Uppdatera personer i Zetkin
 Du kan inte bara importera helt nya människor med Zetkins importverktyg, utan
 också uppdatera befintliga människor. För att kunna göra det måste varje rad
-innehålla ett Zetkin-ID.
+innehålla ett ID för sammanslagning. Det kan antingen vara Zetkins eget
+ID-nummer, eller ett externt ID-nummer, exempelvis från din organisations
+medlemsregister.
 
 Om någon kolumn heter "ID" eller dylikt kommer Zetkin automatiskt att känna igen
 information i kolumnen som Zetkin-ID. Annars måste du själv ange vilken kolumn
 som innehåller ID.
+
+Om du vill uppdatera personer med hjälp av externt ID måste det finnas angivet
+på varje person i Zetkin sedan tidigare, exempelvis från en tidigare import.
+Därför är det klokt att inkludera externa ID första gången du importerar
+personer till Zetkin.
 
 Efter importen kan du se hur många människor som skapats respektive uppdaterats.
