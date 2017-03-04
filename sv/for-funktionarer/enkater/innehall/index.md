@@ -64,6 +64,8 @@ Efter att du skapat en fråga med svarsalternativ kan du ange vilka alternativ
 som finns. Öppna frågan i panelen _Redigera enkätfråga_ och klicka på knappen
 _Lägg till svarsalternativ_ för att lägga till ett nytt alternativ.
 
+![Svarsalternativ](./svarsalternativ.png)
+
 Klicka på ett befintligt alternativ för att redigera det. När du är nöjd med
 den nya texten klickar du på spara, eller på avbryt för att ångra och återgå
 till den gamla formuleringen.

@@ -18,6 +18,8 @@ enkätlistan i Enkät-sektionen. En ny panel, _Skapa enkät_ öppnas, där du ka
 fylla i enkätens namn och en beskrivning som kommer vara synlig för alla som
 fyller i enkäten.
 
+![Skapa enkät](./skapa-enkat.png)
+
 Här väljer du också vem som ska kunna komma åt enkäten och vilka regler som
 gäller för signering av enkätsvar.
 
@@ -66,6 +68,8 @@ frågor och annat innehåll i enkäten.
 ### Redigera innehåll
 När du klickar på _Redigera innehåll_ i enkätpanelen öppnas en ny panel där
 enkätens alla frågor och textblock listas i den ordning de förekommer i enkäten.
+
+![Redigera innehåll](./redigera-innehall.png)
 
 Längst ned finns en lista med texten _Välj typ för att lägga till_. Här kan du
 välja _Enkätfråga_ för att lägga till en ny fråga, eller _Textblock_ för att

@@ -13,8 +13,10 @@ I enkätsvarslistan finns alla svar på alla din organisations enkäter. Om du
 klickar på ett svar öppnas panelen _Inskickad enkät_ med information om den som
 svarat, samt en sammanställning av alla besvarade frågor.
 
-Du kan också hitta en enskild persons enkätsvar genom att söka efter personens
-namn med sökfunktionen i Zetkin Organize.
+![Enkätsvar](./enkatsvar.png)
+
+> Du kan också hitta en enskild persons enkätsvar genom att söka efter personens
+> namn med sökfunktionen i Zetkin Organize.
 
 Överst i panelen _Inskickad enkät_ hittar du namnet på enkäten som besvarats,
 det datum då enkätsvaret skickats in, och information om den svarande.
