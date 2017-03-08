@@ -31,6 +31,7 @@ Följande tangentkombinationer leder till de olika sektionerna:
 * Tryck snabbt `g` `c` för att navigera till sektionen _Kampanj_ ("campaign").
 * Tryck snabbt `g` `d` för att navigera till sektionen _Dialog_.
 * Tryck snabbt `g` `m` för att navigera till sektionen _Kartor_ ("maps").
+* Tryck snabbt `g` `s` för att navigera till sektionen _Enkät_ ("survey").
 
 Du kan också navigera till en sektions olika undersektioner med hjälp av
 siffertangenterna 1-7. Exempelvis kommer du till den nuvarande sektionens andra
