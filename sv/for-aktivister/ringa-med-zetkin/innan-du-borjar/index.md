@@ -23,13 +23,12 @@ När du ringer med Zetkin behöver du ha en dator, surfplatta eller dylikt där 
 kan använda Zetkin. Tänk på att om du ska anteckna mycket (exempelvis i en
 enkät) kan det vara bättre med en dator än med en surfplatta eller smartphone.
 
-> Om du tappar anslutningen till Zetkin sparas ändå samtalet lokalt på din
-> dator så att du kan skicka in det på nytt när uppkopplingen är tillbaka.
-
 Se till att du har en bra internetuppkoppling. Den behöver inte vara snabb, men
 den behöver vara stabil nog för att anslutningen till Zetkin inte ska försvinna
 mitt under ett samtal.
 
 Du behöver också ha en telefon. Zetkin ringer inte automatiskt upp någon, utan
 du behöver ringa med din egen telefon eller en som du lånar från din
-organisation. För att underlätta ringningen kan det vara bra med ett headset.
+organisation. För att underlätta ringningen kan det vara bra med ett headset,
+och ifall du behöver göra anteckningar under samtalets gång är det klokt att
+ha ett anteckningsblock eller ett program för anteckningar öppet på datorn.
