@@ -11,13 +11,14 @@ kicker: |
 
 Zetkin handlar om att organisera aktivism. Vi lever som vi lär, och en stor del
 av utvecklingen av Zetkin sker ideellt av aktivister som vill bidra med sina
-tekniska kunskaper och sin tid.
+kunskaper och sin tid.
 
 ![Screenshot från utvecklingen av Zetkin Call](./uxdesign.png)
 
 Du är oerhört välkommen att bidra med din kompetens, till exempel inom följande
 områden:
 
+* Översättning till ditt språk, [läs mer här](./oversatt)
 * Gränssnittsdesign och UX
 * Utveckling, front-end (vi använder React.js)
 * Utveckling, back-end (vi använder Node och Python)

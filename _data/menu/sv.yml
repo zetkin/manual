@@ -167,6 +167,9 @@ grunderna:
         slug: ""
     -   title: Bidra till Zetkin-projektet
         slug: bidra
+        sub:
+            - title: Översätt Zetkin
+              slug: oversatt
     -   title: Anpassa Zetkin
         slug: anpassa
     -   title: Utveckla egna applikationer
