@@ -135,7 +135,7 @@ user name to clone your fork instead.
 ```
 $ git clone git@github.com:zetkin/manual.zetkin.org
 $ cd manual.zetkin.org
-$ docker run --rm -v $PWD:/srv/jekyll -p 4000:4000 jekyll/jekyll jekyll serve
+$ docker run --rm -ti -v $PWD:/srv/jekyll -p 4000:4000 jekyll/jekyll jekyll serve -i
 ```
 
 The final command will start running the Jekyll Docker container and serving
