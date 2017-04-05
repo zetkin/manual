@@ -58,24 +58,32 @@ finns ett spreadsheet som i sin tur innehåller alla texter.
 
 ![Translations-mappen](translations-mappen.png)
 
+I Vissa fall finns även en "screenshots"-katalog med bilder som kan hjälpa
+dig förstå vilka sammanhang olika texter förekommer i.
+
 ### 2. Hitta vad som behöver översättas
 Varje spreadsheet för respektive app fungerar likadant. De första två kolumnerna
 innehåller textens namn för identifikation. Sedan följer en kolumn per språk.
-Tomma celler markeras med röd bakgrund. Det är dessa som behöver översättas
+Tomma celler markeras med röd bakgrund. Det är dessa som behöver översättas.
 
 ![Spreadsheet med text](spreadsheet.png)
+
+Om det inte finns mågon kolumn för ditt språk kan du lägga till den.
 
 ### 3. Översätt till ditt språk
 Utgå ifrån de övriga språken och textens ID för att lista ut en bra
 översättning. Du kan också se ifall det finns screenshots i Drive-mappen som kan
 hjälpa dig förstå sammanhanget.
 
-Översätt sedan alla de rödmarkerade texter som saknas på ditt språk.
+Översätt sedan alla de rödmarkerade texter som saknas på ditt språk. Skriv
+översättningen direkt i respektive rödmarkerad cell. Om du hittar en dålig
+översättning kan du också ersätta text i celler.
 
 Vissa strängar innehåller variabler, alltså fält som fylls i utav programkoden,
 exempelvis namn på användaren, platsen för en aktion eller dylikt. Dessa märks
 ut med måsvingar (`{}`), exempelvis _Inloggad som { firstName } { lastName }_.
-Se till att följa samma mönster som de övriga språken.
+Se till att följa samma mönster som de övriga språken. Variabelnamnen (till
+exempel _firstName_ ska inte översättas.
 
 Andra strängar är mer komplicerade därför att de kräver olika översättningar i
 olika grammatiska sammanhang, exempelvis för singular eller plural. Försök att
