@@ -83,7 +83,7 @@ Vissa strängar innehåller variabler, alltså fält som fylls i utav programkod
 exempelvis namn på användaren, platsen för en aktion eller dylikt. Dessa märks
 ut med måsvingar (`{}`), exempelvis _Inloggad som { firstName } { lastName }_.
 Se till att följa samma mönster som de övriga språken. Variabelnamnen (till
-exempel _firstName_ ska inte översättas.
+exempel _firstName_) ska inte översättas.
 
 Andra strängar är mer komplicerade därför att de kräver olika översättningar i
 olika grammatiska sammanhang, exempelvis för singular eller plural. Försök att
