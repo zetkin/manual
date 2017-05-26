@@ -115,6 +115,13 @@ Du kan utse en ansvarig genom att klicka på aktionen och välja i panelen som
 öppnas, eller genom att dra och släppa en deltagare till luckan för
 aktionansvarig.
 
+> När du utser en ansvarig läggs hen automatiskt till som deltagare.
+
+I aktionspanelen kan du antingen söka efter en person eller dra och släppa
+en person, exempelvis från deltagarlistan.
+
+![Aktionsansvarig](./aktionsansvarig.png)
+
 ## Avboka deltagare
 Om du vill avboka en deltagare från en aktion gör du det i aktionspanelen som
 du öppnar genom att klicka på aktionen i kalendern eller aktionslistan. I
