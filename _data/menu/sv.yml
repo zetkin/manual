@@ -161,6 +161,8 @@ grunderna:
                 slug: mobilisera-med-ringuppdrag
             -   title: Genomför en kampanj
                 slug: genomfor-en-kampanj
+            -   title: Planera rutter
+                slug: planera-rutter
 
 "for-utvecklare":
     -   title: Inledning
