@@ -16,3 +16,4 @@ fler förslag på guider du skulle vilja se, hör av dig till oss på
 * [Planera en kampanj](./planera-en-kampanj)
 * [Mobilisera till en kampanj med rundringningar](./mobilisera-med-ringuppdrag)
 * [Genomför en kampanj, dag för dag](./genomfor-en-kampanj)
+* [Planera rutter för hushållsbesök](./planera-rutter)
