@@ -42,6 +42,8 @@ vi ett uppdrag vars titel, datum och instruktioner är anpassade efter detta.
 Under _Canvass_ i Zetkin Organize finns _Uppdrag_. Där klickar vi på _Skapa
 uppdrag_ för att skapa ett nytt uppdrag, och kallar det "Valkampen 2017".
 
+![Skapa uppdrag](./skapa-uppdrag.gif)
+
 Efter att vi skapat uppdraget kan vi skriva instruktioner. Det kan exempelvis
 vara en sammanfattning av hur man gör när man delar ut, tips om hur man kommer
 in i låsta trappuppgångar, och dylikt.
@@ -69,6 +71,8 @@ Vi kan växla mellan _Uppdrag_ och _Tilldelade rutter_ genom vyväxlaren uppe
 till vänster. Under _Tilldelade rutter_ finns en lista där vi hittar den rutt
 vi just allokerat.
 
+![Växla vy](./vaxla-vy.gif)
+
 Om vi föredrar att allokera alla rutter i förväg kan vi gå vidare och göra på
 samma sätt för var och en av de rutter vi vill genomföra i vårt uppdrag. Om vi
 hellre allokerar rutter först när vi vet vem som ska genomföra dem kan vi stanna
@@ -83,15 +87,17 @@ information om rutten på papper. Utskriften innehåller en karta, en lista på
 adresser, samt all information vi matat in om rutten och uppdraget, exempelvis
 instruktionerna.
 
-![Rutt på papper](./print.jpg)
-
 ### Skriv ut
 För att skriva ut en rutt måste den vara allokerad. I listan över _Tilldelade
 rutter_ väljer vi en rutt. I panelen som öppnas finns länken _Skriv ut till
 aktivist_. Genom att klicka där får vi upp en förhandsvisning av utskriften.
 
+![Ruttpanel](./ruttpanel.gif)
+
 Kartan i förhandsvisningen är interaktiv. Om vi inte är nöjda med hur Zetkin
 valt att beskära kartan så vi kan zooma och panorera runt.
+
+![Rutt på papper](./print.jpg)
 
 Därefter använder vi vår webbläsarens vanliga utskriftsfunktion för att skriva
 ut listan, och ger den till aktivisten som ska genomföra rutten. Vi noterar
