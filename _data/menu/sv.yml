@@ -163,6 +163,8 @@ grunderna:
                 slug: genomfor-en-kampanj
             -   title: Planera rutter
                 slug: planera-rutter
+            -   title: Genomför hushållsbesök
+                slug: genomfor-hushallsbesok
 
 "for-utvecklare":
     -   title: Inledning
