@@ -13,8 +13,8 @@ personuppgifter i stor skala eller för att sätta olika etiketter på många
 människor samtidigt.
 
 Läs mer om hur Zetkins importverktyg fungerar nedan, eller titta på guiden
-[Importera dina medlemmar](/sv/guider/importera-dina-medlemmar) för ett
-exempel med instruktioner steg för steg.
+[Importera dina medlemmar](/sv/for-funktionarer/guider/importera-dina-medlemmar)
+för ett exempel med instruktioner steg för steg.
 
 
 ## Importera Excel-filer
