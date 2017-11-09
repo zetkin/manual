@@ -108,3 +108,43 @@ telefonnummer och e-postadress (om vi inte redan gjort det innan vi skrev ut).
 Aktivisten går sedan ut och delar ut tidningar till de hushåll som finns på
 listan. Om man vill kan man bocka av varje adress man besöker, eller så väntar
 man tills man är klar och bockar av i rutan _Klar_ på första sidan.
+
+När rutten är klar lämnas pappret tillbaka (eller meddelas på annat sätt) till
+en funktionär.
+
+## 4. Registrera färdig rutt
+Det sista steget är att registrera framsteg i rutten, vanligtvis hela rutten
+och i vissa fall bara en del av den.
+
+När vi får tillbaka en printad rutt behöver vi hitta den i Zetkin. Vi kan söka
+efter ruttens namn, eller det ID-nummer som finns nere till höger på varje
+sida.
+
+> ID-numret till höger föregås av ett _#_-tecken
+
+![Ruttens ID](./ruttens-id.jpg)
+
+Om vi söker efter BpPBz hittar vi en "Assigned route". Vi kan också leta upp
+rutten i listan över assigned routes.
+
+I panelen för assigned routes kan vi uppdatera framsteg genom att klicka på
+knappen _Update progress_. Ifall hela rutten är färdig behöver vi inte ändra
+något utan bara bekräfta genom att klicka på den blå knappen.
+
+![Uppdatera framsteg](./uppdatera-framsteg.jpg)
+
+Ifall den som genomfört rutten endast har hunnit med några adresser går det att
+markera enbart dessa som färdiga.
+
+När vi markerar alla adresser som färdiga uppdateras informationen i panelen
+_Assigned route_ och reflekterar nu att den är 100% färdig.
+
+![Rutt klar](./rutt-klar.jpg)
+
+Därmed är rutten helt klar. Om vi inte redan startat upp fler aktivister
+parallellt kan vi nu delegera nästa rutt och arbeta vidare.
+
+## Sammanfattning
+I den här guiden har vi gått igenom alla steg som krävs för att genomföra
+hushållsbesök på rutter som planerats sedan tidigare. Vi har gått igenom hur man
+skapar ett uppdrag, tilldelar rutter, genomför dem och återrapporterar dem.
