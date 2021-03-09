@@ -92,8 +92,6 @@ grunderna:
                 slug: etiketter
             -   title: Smarta sökningar
                 slug: smarta-sokningar
-            -   title: Bjud in användare
-                slug: bjud-in
     -   title: Jobba med kampanjer
         slug: kampanjer
         sub:
